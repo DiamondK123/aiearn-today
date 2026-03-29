@@ -1,43 +1,57 @@
-name: 每日AI新聞自動更新
+name: Daily AI News Auto-Update
 
 on:
-  # 每天 UTC 00:00 = 台北時間早上 08:00
   schedule:
     - cron: '0 0 * * *'
-
-  # 手動觸發（測試用）
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-news:
+  update-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout 程式碼
+      - name: 📥 Checkout code
         uses: actions/checkout@v4
 
-      - name: 🐍 設定 Python 3.11
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: 📦 安裝依賴套件
-        run: |
-          pip install anthropic feedparser
+      - name: 📦 Install dependencies
+        run: pip install anthropic feedparser
 
-      - name: 📰 執行每日新聞更新腳本
+      - name: 📰 Run daily news update script
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          python fetch_news.py
+        run: python fetch_news.py
 
-      - name: 💾 Commit 更新後的頁面
+      - name: 💾 Commit all generated pages to GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AIEarn Bot"
-          git add index-zh.html news-zh.html index.html _archive/
-          git diff --staged --quiet || git commit -m "📰 每日自動更新：$(date +'%Y-%m-%d') 台北時間08:00"
-          git push
+          git add index.html news*.html _archive/ || true
+          git diff --staged --quiet || git commit -m "📰 Daily update: $(date +'%Y-%m-%d') 08:00 UTC+8"
+          git push || true
+
+      - name: 🚀 Upload all HTML pages to Hostinger via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./
+          server-dir: /public_html/
+          exclude: |
+            .git*
+            .github*
+            fetch_news.py
+            requirements.txt
+            README.md
+            _archive/**
+            **/.DS_Store
+            *.zip
+            *.json
