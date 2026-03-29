@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "category": "tool",
+    "title_en": "AI Boosts Software Development Productivity by 170% with 80% Staff",
+    "summary_en": "A real-world engineering organization achieved 170% throughput increase while reducing headcount to 80% using AI development tools over six months. This case study demonstrates how software companies can dramatically improve profitability by strategically implementing AI coding assistants. The results show AI isn't just hype—it can deliver measurable productivity gains that directly impact your bottom line when properly integrated into development workflows.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount",
+    "affiliate": true,
+    "hot": true
+  },
+  {
+    "rank": 2,
+    "category": "tool",
+    "title_en": "Free Mistral AI Voice Model Beats ElevenLabs for Businesses",
+    "summary_en": "Mistral AI released a free text-to-speech model that outperforms ElevenLabs, with open weights available for commercial use. This presents a major cost-saving opportunity for content creators, podcasters, and businesses currently paying for premium voice services. You can integrate this into apps, create audiobooks, or offer voice services to clients without ongoing licensing fees, potentially saving thousands monthly.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
+    "affiliate": true,
+    "hot": true
+  },
+  {
+    "rank": 3,
+    "category": "news",
+    "title_en": "Claude Paid Subscriptions Double as AI Revenue Skyrockets",
+    "summary_en": "Anthropic's Claude has doubled its paid subscribers this year, with consumer users estimated between 18-30 million. This growth signals strong demand for premium AI services, creating opportunities for consultants and agencies to help businesses implement Claude-based solutions. The surge in paid AI adoption shows consumers are willing to pay for quality AI tools, validating business models built around AI subscriptions.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing",
+    "affiliate": true,
+    "hot": false
+  },
+  {
+    "rank": 4,
+    "category": "tool",
+    "title_en": "Google's TurboQuant Cuts AI Costs 50% with 8x Speed",
+    "summary_en": "Google's new TurboQuant algorithm reduces AI inference costs by 50% while delivering 8x faster memory processing for large language models. This breakthrough enables more profitable AI applications by dramatically reducing operational expenses. Developers and AI service providers can now run more complex models affordably, opening doors for new business models and competitive pricing strategies in the AI services market.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50",
+    "affiliate": false,
+    "hot": false
+  },
+  {
+    "rank": 5,
+    "category": "tool",
+    "title_en": "ChatGPT Shopping Integration Opens New E-commerce Revenue Streams",
+    "summary_en": "OpenAI launched visual shopping capabilities in ChatGPT through the Agentic Commerce Protocol, enabling product discovery and merchant integration. This creates opportunities for e-commerce businesses to reach customers through conversational AI, affiliate marketers to leverage AI-driven recommendations, and developers to build shopping-focused AI applications. The integration represents a new frontier for AI-powered commerce revenue generation.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "affiliate": true,
+    "hot": false
+  },
+  {
+    "rank": 6,
+    "category": "money",
+    "title_en": "STADLER Saves Massive Costs Using ChatGPT Across 650 Employees",
+    "summary_en": "230-year-old company STADLER transformed knowledge work using ChatGPT across 650 employees, achieving significant time savings and productivity gains. This case study demonstrates how traditional businesses can implement AI to reduce operational costs and accelerate workflows. Companies following this model can expect substantial ROI through improved employee efficiency, reduced task completion times, and streamlined knowledge management processes.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/stadler",
+    "affiliate": true,
+    "hot": false
+  },
+  {
+    "rank": 7,
+    "category": "tool",
+    "title_en": "IndexCache Delivers 1.82x Faster AI Inference, Cuts Costs 75%",
+    "summary_en": "Tsinghua University's IndexCache technique reduces AI model computation by 75% while delivering 1.82x faster inference on long-context models. This optimization dramatically reduces costs for businesses processing large documents or extended conversations. AI service providers can improve margins, offer competitive pricing, and handle more clients with existing infrastructure, creating significant revenue opportunities in the growing AI services market.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference",
+    "affiliate": false,
+    "hot": false
+  },
+  {
+    "rank": 8,
+    "category": "course",
+    "title_en": "How AI Graphic Design Tools Support Creative Workflows",
+    "summary_en": "Neil Patel's guide explores integrating AI tools into graphic design workflows without replacing creativity. The article covers AI tools within Figma, Adobe, and other platforms to remove friction from design processes. Designers can learn to leverage AI for faster iterations, automated tasks, and enhanced productivity, allowing them to take on more clients and increase project throughput while maintaining creative quality.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/how-use-ai-graphic-design/",
+    "affiliate": true,
+    "hot": false
+  },
+  {
+    "rank": 9,
+    "category": "news",
+    "title_en": "SoftBank's $40B Loan Signals 2026 OpenAI IPO Opportunity",
+    "summary_en": "JPMorgan and Goldman Sachs are extending a $40 billion loan to SoftBank, pointing toward a potential 2026 OpenAI IPO. This development creates investment opportunities for those positioned in AI stocks and related markets. Early investors and AI-focused funds could benefit from the anticipated public offering, while the loan signals continued massive institutional investment in AI infrastructure and development.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "affiliate": false,
+    "hot": false
+  },
+  {
+    "rank": 10,
+    "category": "prompt",
+    "title_en": "GEO Strategy: Why Prompt Volume Shouldn't Drive Content",
+    "summary_en": "Neil Patel reveals why focusing on high-volume AI prompts may be misguided for generative engine optimization. Instead of chasing estimated prompt data, businesses should build authority-focused content strategies. This approach helps capture AI-driven traffic more effectively, positioning your content for discovery in ChatGPT, Perplexity, and other AI tools that increasingly influence buying decisions and information consumption patterns.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/geo-best-practices-prompt-volume-shoudnt-drive-strategy/",
+    "affiliate": false,
+    "hot": false
+  }
+]
