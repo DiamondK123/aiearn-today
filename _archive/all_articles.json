@@ -1,5 +1,16 @@
 [
   {
+    "rank": 8,
+    "category": "money",
+    "title_en": "AI Agents Enter Banking at Bank of America",
+    "summary_en": "Bank of America deploys AI-powered advisory platforms to 1,000 financial advisers, signaling major shift toward AI-assisted financial services. This represents growing market opportunities for fintech entrepreneurs and consultants specializing in AI implementation for financial firms. The expansion demonstrates demand for AI tools in high-value financial advisory roles, creating potential for developing specialized AI solutions for wealth management, financial planning, and client relationship management across the financial services industry.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-29"
+  },
+  {
     "rank": 20,
     "category": "tool",
     "title_en": "OpenAI Safety Bug Bounty Program Launched",
