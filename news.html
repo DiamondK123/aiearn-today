@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily AI News — AIEarn.today | AI Tools, Side Hustles & Money Updates</title>
+<meta name="description" content="Daily-updated AI news index: tool launches, side hustle opportunities, course deals, and prompt tips — all curated for people who want to make money with AI.">
+<meta name="keywords" content="AI news today, ChatGPT update, Claude API news, Midjourney update, AI side hustle news, AI affiliate news, make money AI 2025">
+<meta property="og:title" content="Daily AI News — AIEarn.today">
+<meta property="og:description" content="Daily AI tool news, side hustle opportunities, and course deals. Updated every morning.">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://aiearn.today/news.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Noto+Sans+TC:wght@400;500;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink:#1a1a18;--ink2:#3d3d38;--ink3:#6b6b64;
+  --paper:#f5f2eb;--paper2:#ede9df;--paper3:#e4dfd3;
+  --rule:#c8c2b4;--red:#c0392b;--red2:#e74c3c;
+  --gold:#b8860b;--gold2:#d4a017;--green:#1a6b3c;
+  --mono:'IBM Plex Mono',monospace;
+  --serif:'Libre Baskerville',Georgia,serif;
+  --sans:'Noto Sans TC',sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.6;}
+
+/* TOP BANNER */
+.top-banner{background:var(--ink);color:var(--paper);padding:5px 16px;font-family:var(--mono);font-size:11px;letter-spacing:0.08em;display:flex;justify-content:space-between;align-items:center;gap:12px;}
+.ticker{display:flex;gap:32px;overflow:hidden;}
+.ticker span{white-space:nowrap;}
+.up{color:#4ade80;}.dn{color:#f87171;}
+.date-block{font-size:10px;opacity:0.7;white-space:nowrap;}
+
+/* GOOGLE TRANSLATE BAR */
+.translate-bar{background:var(--paper3);border-bottom:1px solid var(--rule);padding:5px 24px;display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:10px;color:var(--ink3);letter-spacing:0.08em;}
+.translate-bar span{text-transform:uppercase;white-space:nowrap;}
+.goog-te-gadget-simple{background:transparent!important;border:1px solid var(--rule)!important;padding:2px 6px!important;font-family:var(--mono)!important;font-size:10px!important;}
+.goog-te-gadget-simple span,.goog-te-gadget-simple a{color:var(--ink)!important;font-family:var(--mono)!important;}
+.goog-te-banner-frame{display:none!important;}
+body{top:0!important;}
+
+/* MASTHEAD */
+.masthead{border-bottom:3px double var(--rule);padding:14px 24px 12px;}
+.masthead-top{display:flex;justify-content:space-between;align-items:flex-start;}
+.site-name{font-family:var(--serif);font-size:40px;font-weight:700;letter-spacing:-0.03em;line-height:1;color:var(--ink);text-decoration:none;display:inline-block;}
+.site-name span{color:var(--red);}
+.page-title{font-family:var(--mono);font-size:10px;color:var(--ink3);letter-spacing:0.12em;text-transform:uppercase;margin-top:4px;}
+.masthead-right{text-align:right;font-family:var(--mono);font-size:10px;color:var(--ink3);line-height:1.8;}
+.issue{font-size:16px;font-weight:600;color:var(--ink);display:block;}
+.auto-badge{display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);font-size:9px;letter-spacing:0.08em;color:var(--green);border:1px solid var(--green);padding:2px 8px;margin-top:4px;}
+.auto-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 2s infinite;}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.3;}}
+
+/* NAV */
+.nav-bar{border-bottom:1px solid var(--ink);border-top:1px solid var(--ink);display:flex;align-items:stretch;background:var(--paper);overflow-x:auto;}
+.nav-bar a{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink);text-decoration:none;padding:8px 18px;white-space:nowrap;border-right:1px solid var(--rule);transition:background 0.15s;}
+.nav-bar a:hover{background:var(--ink);color:var(--paper);}
+.nav-bar a.active{background:var(--red);color:#fff;}
+
+/* BREAKING */
+.breaking-bar{background:var(--red);color:#fff;font-family:var(--mono);font-size:11px;padding:5px 0;display:flex;align-items:center;overflow:hidden;}
+.breaking-label{background:#fff;color:var(--red);font-weight:700;padding:0 10px;margin-right:16px;white-space:nowrap;flex-shrink:0;letter-spacing:0.1em;}
+.breaking-text{display:flex;gap:48px;animation:scroll-left 45s linear infinite;white-space:nowrap;}
+@keyframes scroll-left{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+
+/* LAYOUT */
+.container{max-width:1160px;margin:0 auto;padding:0 24px;}
+
+/* SECTION RULE */
+.section-rule{border-top:2px solid var(--ink);border-bottom:1px solid var(--rule);padding:4px 0;margin:20px 0 14px;display:flex;align-items:baseline;gap:12px;}
+.section-label{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:0.15em;text-transform:uppercase;color:var(--ink);}
+.section-meta{margin-left:auto;font-family:var(--mono);font-size:9px;color:var(--ink3);}
+
+/* AD SLOTS */
+.ad-slot{border:1px dashed var(--rule);background:var(--paper2);display:flex;align-items:center;justify-content:center;font-family:var(--mono);font-size:10px;color:var(--ink3);letter-spacing:0.1em;text-transform:uppercase;}
+.ad-leaderboard{width:100%;height:90px;margin:12px 0;}
+.ad-rect{width:100%;height:250px;margin-bottom:14px;}
+.ad-sq{width:100%;height:200px;margin-bottom:14px;}
+.ad-article{width:100%;height:90px;margin:16px 0;}
+
+/* TODAY DIGEST */
+.digest-box{border:2px solid var(--ink);padding:18px;margin-bottom:20px;}
+.digest-header{display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid var(--rule);padding-bottom:10px;margin-bottom:14px;flex-wrap:wrap;gap:8px;}
+.digest-title{font-family:var(--mono);font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;}
+.digest-date{font-family:var(--mono);font-size:10px;color:var(--ink3);}
+.digest-auto{font-family:var(--mono);font-size:9px;color:var(--green);letter-spacing:0.1em;}
+.digest-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
+.digest-item{padding-right:16px;border-right:1px solid var(--rule);}
+.digest-item:last-child{border-right:none;}
+.di-cat{font-family:var(--mono);font-size:9px;letter-spacing:0.1em;text-transform:uppercase;color:var(--red);margin-bottom:5px;}
+.digest-item h3{font-family:var(--serif);font-size:15px;font-weight:700;line-height:1.35;margin-bottom:6px;}
+.digest-item h3 a{color:var(--ink);text-decoration:none;}
+.digest-item h3 a:hover{text-decoration:underline;}
+.digest-item p{font-size:12px;color:var(--ink2);line-height:1.65;}
+.di-src{font-family:var(--mono);font-size:9px;color:var(--ink3);margin-top:5px;}
+
+/* CATEGORY TABS */
+.cat-tabs{display:flex;gap:0;border-bottom:2px solid var(--ink);overflow-x:auto;}
+.cat-tab{font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:7px 14px;cursor:pointer;border-right:1px solid var(--rule);border-top:1px solid var(--rule);transition:all 0.15s;background:var(--paper);color:var(--ink3);text-decoration:none;white-space:nowrap;}
+.cat-tab:hover{background:var(--paper2);color:var(--ink);}
+.cat-tab.active{background:var(--ink);color:var(--paper);}
+
+/* NEWS LAYOUT */
+.news-layout{display:grid;grid-template-columns:1fr 280px;gap:24px;margin-bottom:24px;}
+
+/* ARTICLE CARDS */
+.article-card{display:flex;gap:14px;padding:14px 0;border-bottom:1px solid var(--rule);}
+.article-card:first-child{padding-top:0;}
+.article-card:last-child{border-bottom:none;}
+.article-num{font-family:var(--mono);font-size:22px;font-weight:700;color:var(--rule);line-height:1;flex-shrink:0;width:30px;padding-top:2px;}
+.article-body{flex:1;}
+.article-meta-top{display:flex;align-items:center;gap:8px;margin-bottom:5px;flex-wrap:wrap;}
+.art-cat{font-family:var(--mono);font-size:9px;letter-spacing:0.1em;text-transform:uppercase;}
+.art-cat-tool{color:var(--red);}
+.art-cat-money{color:var(--green);}
+.art-cat-course{color:var(--gold);}
+.art-cat-prompt{color:#5b4fcf;}
+.art-cat-news{color:var(--ink3);}
+.art-time{font-family:var(--mono);font-size:9px;color:var(--ink3);}
+.article-body h3{font-family:var(--serif);font-size:16px;font-weight:700;line-height:1.35;margin-bottom:5px;}
+.article-body h3 a{color:var(--ink);text-decoration:none;}
+.article-body h3 a:hover{text-decoration:underline;color:var(--red);}
+.article-body p{font-size:12.5px;color:var(--ink2);line-height:1.65;margin-bottom:6px;}
+.article-tags{display:flex;gap:6px;flex-wrap:wrap;}
+.art-tag{font-family:var(--mono);font-size:9px;letter-spacing:0.06em;padding:1px 6px;border:1px solid var(--rule);color:var(--ink3);text-decoration:none;}
+.art-tag.af{background:var(--gold2);color:#fff;border-color:var(--gold);}  /* ← AFFILIATE TAG */
+.art-tag.hot{background:var(--red);color:#fff;border-color:var(--red);}
+.article-source{font-family:var(--mono);font-size:9px;color:var(--ink3);margin-top:4px;}
+.article-source a{color:var(--ink3);text-decoration:underline;}
+.pill{display:inline-block;padding:0 5px;font-size:9px;font-family:var(--mono);letter-spacing:0.06em;text-transform:uppercase;border:1px solid currentColor;}
+.pill-new{color:var(--red);}
+.pill-sale{color:var(--green);}
+
+/* SIDEBAR */
+.sidebar-box{border:1px solid var(--rule);padding:14px;margin-bottom:16px;}
+.sidebar-head{font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;border-bottom:1px solid var(--ink);padding-bottom:5px;margin-bottom:10px;}
+.sidebar-item{padding:7px 0;border-bottom:1px dotted var(--rule);}
+.sidebar-item:last-child{border-bottom:none;padding-bottom:0;}
+.sidebar-item a{font-family:var(--serif);font-size:12.5px;color:var(--ink);text-decoration:none;line-height:1.4;display:block;}
+.sidebar-item a:hover{text-decoration:underline;color:var(--red);}
+.sidebar-item .s-meta{font-family:var(--mono);font-size:9px;color:var(--ink3);margin-top:2px;}
+
+/* AFFILIATE SIDEBAR CARDS */  /* ← AFFILIATE SPOTS */
+.af-card{padding:10px;border:1px solid var(--rule);background:var(--paper);margin-bottom:8px;transition:border-color 0.15s;}
+.af-card:hover{border-color:var(--ink);}
+.af-card-badge{font-family:var(--mono);font-size:9px;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:4px;}
+.af-card-badge.top{color:var(--gold);}
+.af-card-badge.comm{color:var(--green);}
+.af-card-name{font-family:var(--serif);font-size:13px;font-weight:700;margin-bottom:3px;color:var(--ink);}
+.af-card-desc{font-size:11px;color:var(--ink3);margin-bottom:7px;line-height:1.45;}
+.af-btn{display:block;text-align:center;font-family:var(--mono);font-size:10px;padding:5px;text-decoration:none;letter-spacing:0.08em;text-transform:uppercase;transition:all 0.15s;}
+.af-btn-red{background:var(--red);color:#fff;}
+.af-btn-red:hover{background:var(--ink);}
+.af-btn-dark{background:var(--ink);color:var(--paper);}
+.af-btn-dark:hover{background:var(--red);}
+
+/* PAGINATION */
+.pagination{display:flex;gap:0;justify-content:center;margin:20px 0;}
+.page-btn{font-family:var(--mono);font-size:11px;padding:6px 14px;border:1px solid var(--rule);color:var(--ink);text-decoration:none;border-right:none;transition:all 0.15s;}
+.page-btn:last-child{border-right:1px solid var(--rule);}
+.page-btn:hover{background:var(--paper2);}
+.page-btn.active{background:var(--ink);color:var(--paper);}
+
+/* FOOTER */
+footer{border-top:2px solid var(--ink);padding:16px 24px;background:var(--ink);color:var(--paper);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;}
+.footer-brand{font-family:var(--serif);font-size:20px;font-weight:700;}
+.footer-brand span{color:var(--red2);}
+.footer-links{display:flex;gap:20px;flex-wrap:wrap;}
+.footer-links a{font-family:var(--mono);font-size:10px;letter-spacing:0.08em;text-transform:uppercase;color:var(--paper);text-decoration:none;opacity:0.7;}
+.footer-links a:hover{opacity:1;}
+.footer-copy{font-family:var(--mono);font-size:9px;opacity:0.4;}
+
+@media(max-width:900px){
+  .news-layout{grid-template-columns:1fr;}
+  .digest-grid{grid-template-columns:1fr;}
+  .digest-item{border-right:none;border-bottom:1px solid var(--rule);padding:0 0 12px;}
+  .digest-item:last-child{border-bottom:none;}
+  .site-name{font-size:30px;}
+}
+@media(max-width:520px){
+  .top-banner{flex-direction:column;gap:4px;}
+  .cat-tabs{flex-wrap:wrap;}
+}
+</style>
+</head>
+<body>
+
+<!-- TOP TICKER -->
+<div class="top-banner">
+  <div class="ticker">
+    <span>GPT-5 <span class="up">▲ Launched</span></span>
+    <span>Claude 4.5 API <span class="up">▲ Price cut</span></span>
+    <span>Midjourney v7 <span class="up">▲ Released</span></span>
+    <span>Udemy AI courses <span class="up">▲ Sale on now</span></span>
+    <span>GPT-5 <span class="up">▲ Launched</span></span>
+    <span>Claude 4.5 API <span class="up">▲ Price cut</span></span>
+    <span>Midjourney v7 <span class="up">▲ Released</span></span>
+  </div>
+  <div class="date-block" id="live-date"></div>
+</div>
+
+<!-- GOOGLE TRANSLATE BAR -->
+<div class="translate-bar container">
+  <span>🌐 Translate:</span>
+  <div id="google_translate_element"></div>
+</div>
+
+<!-- MASTHEAD -->
+<div class="masthead container">
+  <div class="masthead-top">
+    <div>
+      <a href="index.html" class="site-name">AI<span>Earn</span>.today</a>
+      <div class="page-title">Daily AI News — Tools · Side Hustles · Courses · Prompts</div>
+    </div>
+    <div class="masthead-right">
+      <span class="issue" id="issue-num">#001</span>
+      <span>Daily News Edition</span><br>
+      <span class="auto-badge"><span class="auto-dot"></span>Auto-updated daily</span>
+    </div>
+  </div>
+</div>
+
+<!-- NAV — only live pages -->
+<div class="nav-bar">
+  <a href="index.html">Home</a>
+  <a href="news.html" class="active">Daily AI News</a>
+</div>
+
+<!-- BREAKING -->
+<div class="breaking-bar">
+  <div class="breaking-label">⚡ LATEST</div>
+  <div class="breaking-text">
+    <span>OpenAI releases GPT-5 — free tier: 50/day, Plus: unlimited &nbsp;·&nbsp;</span>
+    <span>Anthropic cuts Claude 4.5 API pricing by 40% &nbsp;·&nbsp;</span>
+    <span>Midjourney v7 officially launched — prompt accuracy greatly improved &nbsp;·&nbsp;</span>
+    <span>Google Gemini 2.5 Pro free trial — 1M token context &nbsp;·&nbsp;</span>
+    <span>Perplexity Pro launches affiliate program — 25% monthly commission &nbsp;·&nbsp;</span>
+    <span>OpenAI releases GPT-5 — free tier: 50/day, Plus: unlimited &nbsp;·&nbsp;</span>
+    <span>Anthropic cuts Claude 4.5 API pricing by 40% &nbsp;·&nbsp;</span>
+  </div>
+</div>
+
+<div class="container">
+  <!-- AD SLOT 1: LEADERBOARD TOP -->
+  <div class="ad-slot ad-leaderboard">[ Google AdSense — Leaderboard 728×90 ]</div>
+
+  <!-- TODAY'S DIGEST — AUTO-INJECT TARGET -->
+  <div class="digest-box">
+    <div class="digest-header">
+      <span class="digest-title">📰 Today's AI Digest</span>
+      <span class="digest-date" id="digest-date"></span>
+      <span class="digest-auto">⚡ Auto-generated by Python</span>
+    </div>
+    <!-- AUTO-INJECT ZONE: Python replaces innerHTML of #digest-grid each day -->
+    <div class="digest-grid" id="digest-grid">
+      <div class="digest-item">
+        <div class="di-cat">🤖 AI Tools</div>
+        <h3><a href="#">GPT-5 launches: free users get 50 queries/day, Plus gets unlimited</a></h3>
+        <p>OpenAI officially released GPT-5 today. Significant improvements in reasoning, math, and code generation over GPT-4o. Free tier is limited to 50 queries/day; Plus subscription removes limits.</p>
+        <div class="di-src">Source: OpenAI · 2 hours ago</div>
+      </div>
+      <div class="digest-item">
+        <div class="di-cat">💰 Side Hustle</div>
+        <h3><a href="#">AI prompt engineering demand surges: 3,000+ new Fiverr gigs this week</a></h3>
+        <p>Fiverr data shows AI prompt-related services grew 340% year-over-year. Average order value: $50–$200. No technical background required to get started.</p>
+        <div class="di-src">Source: Fiverr Research · 5 hours ago</div>
+      </div>
+      <div class="digest-item">
+        <div class="di-cat">📚 Course Deal</div>
+        <h3><a href="#">Udemy AI Automation Bootcamp — $9.99 this week only (was $99)</a></h3>
+        <p>Includes n8n, ChatGPT API, and Python automation modules. Lifetime access, 12,400 students enrolled. Sale ends March 31.</p>
+        <div class="di-src">Source: Udemy · Sale ends 3/31</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CATEGORY FILTER TABS -->
+  <div class="cat-tabs" id="cat-tabs">
+    <a href="#" class="cat-tab active" data-cat="all">All</a>
+    <a href="#" class="cat-tab" data-cat="tool">🤖 AI Tools</a>
+    <a href="#" class="cat-tab" data-cat="money">💰 Side Hustles</a>
+    <a href="#" class="cat-tab" data-cat="course">📚 Course Deals</a>
+    <a href="#" class="cat-tab" data-cat="prompt">🔧 Prompt Tips</a>
+    <a href="#" class="cat-tab" data-cat="news">📡 Industry News</a>
+  </div>
+
+  <div class="news-layout">
+
+    <!-- MAIN ARTICLE LIST — AUTO-INJECT TARGET -->
+    <div>
+      <!-- AUTO-INJECT ZONE: Python replaces innerHTML of #article-list each day -->
+      <div id="article-list">
+
+        <div class="article-card" data-cat="tool">
+          <div class="article-num">01</div>
+          <div class="article-body">
+            <div class="article-meta-top">
+              <span class="art-cat art-cat-tool">🤖 AI Tools</span>
+              <span class="pill pill-new">New</span>
+              <span class="art-time">Today · 2h ago</span>
+            </div>
+            <h3><a href="#">GPT-5 officially released — what it means for your AI side income</a></h3>
+            <p>OpenAI's GPT-5 lands today with major upgrades to reasoning and code generation. For freelancers and side hustlers, the Plus tier is now an even stronger value at $20/month. We break down the new capabilities and which side-hustle workflows benefit most.</p>
+            <div class="article-tags">
+              <span class="art-tag hot">Today's #1</span>
+              <span class="art-tag">ChatGPT</span>
+              <span class="art-tag">OpenAI</span>
+              <span class="art-tag af">Affiliate ↗</span>  <!-- AFFILIATE TAG -->
+            </div>
+            <div class="article-source">Source: <a href="#">OpenAI Blog</a> · Curated by AIEarn</div>
+          </div>
+        </div>
+
+        <div class="article-card" data-cat="money">
+          <div class="article-num">02</div>
+          <div class="article-body">
+            <div class="article-meta-top">
+              <span class="art-cat art-cat-money">💰 Side Hustle</span>
+              <span class="art-time">Today · 4h ago</span>
+            </div>
+            <h3><a href="#">Fiverr case study: writing LinkedIn profiles with ChatGPT — $2,400/month</a></h3>
+            <p>A detailed breakdown of one freelancer's workflow: using ChatGPT Plus to write English LinkedIn bios and profile summaries at $80–$120 per client. Handling 20–30 orders/month nets ~$2,000–$2,400. Tool cost: $20/month.</p>
+            <div class="article-tags">
+              <span class="art-tag">Fiverr</span>
+              <span class="art-tag">Freelancing</span>
+              <span class="art-tag">LinkedIn</span>
+              <span class="art-tag af">Affiliate ↗</span>  <!-- AFFILIATE TAG -->
+            </div>
+            <div class="article-source">Source: Reader submission · Verified by AIEarn</div>
+          </div>
+        </div>
+
+        <div class="article-card" data-cat="tool">
+          <div class="article-num">03</div>
+          <div class="article-body">
+            <div class="article-meta-top">
+              <span class="art-cat art-cat-tool">🤖 AI Tools</span>
+              <span class="art-time">Today · 5h ago</span>
+            </div>
+            <h3><a href="#">Claude 4.5 API price cut 40%: updated ROI calculations for automation side hustles</a></h3>
+            <p>Anthropic drops Claude 4.5 Sonnet input pricing from $3 to $1.80 per million tokens. For anyone running automated article summarization, classification, or translation workflows, this materially improves margins. We've recalculated ROI across common side-hustle use cases.</p>
+            <div class="article-tags">
+              <span class="art-tag">Claude API</span>
+              <span class="art-tag">Anthropic</span>
+              <span class="art-tag">Automation</span>
+            </div>
+            <div class="article-source">Source: <a href="#">Anthropic Announcement</a> · Curated by AIEarn</div>
+          </div>
+        </div>
+
+        <div class="article-card" data-cat="course">
+          <div class="article-num">04</div>
+          <div class="article-body">
+            <div class="article-meta-top">
+              <span class="art-cat art-cat-course">📚 Course Deal</span>
+              <span class="pill pill-sale">Sale</span>
+              <span class="art-time">Today · 8h ago</span>
+            </div>
+            <h3><a href="#">Best Udemy AI courses on sale this week — full side-hustle stack for under $30</a></h3>
+            <p>Five hand-picked courses covering AI automation, Midjourney for commercial use, ChatGPT API development, AI content marketing, and n8n workflow automation. All with lifetime access. Sale ends March 31.</p>
+            <div class="article-tags">
+              <span class="art-tag af">Affiliate Links ↗</span>  <!-- AFFILIATE TAG -->
+              <span class="art-tag">Udemy</span>
+              <span class="art-tag hot">Limited time</span>
+            </div>
+            <div class="article-source">Source: Udemy · Affiliate recommended</div>
+          </div>
+        </div>
+
+        <div class="article-card" data-cat="prompt">
+          <div class="article-num">05</div>
+          <div class="article-body">
+            <div class="article-meta-top">
+              <span class="art-cat art-cat-prompt">🔧 Prompt Tips</span>
+              <span class="art-time">Today · 10h ago</span>
+            </div>
+            <h3><a href="#">10 prompt templates that produce copy clients will actually pay for</a></h3>
+            <p>Most AI-generated copy feels generic because the prompts are generic. This guide shares the exact prompt structure that consistently produces sellable copy: role assignment + reader persona + output format + negative example. Includes 10 ready-to-use templates as a free download.</p>
+            <div class="article-tags">
+              <span class="art-tag">Prompt Engineering</span>
+              <span class="art-tag">Copywriting</span>
+              <span class="art-tag">Free Templates</span>
+            </div>
+            <div class="article-source">Source: AIEarn Original</div>
+          </div>
+        </div>
+
+        <div class="article-card" data-cat="tool">
+          <div class="article-num">06</div>
+          <div class="article-body">
+            <div class="article-meta-top">
+              <span class="art-cat art-cat-tool">🤖 AI Tools</span>
+              <span class="art-time">Yesterday</span>
+            </div>
+            <h3><a href="#">Midjourney v7 is out: better prompt accuracy makes commercial illustration easier</a></h3>
+            <p>Midjourney v7's biggest improvement is prompt interpretation — complex descriptions now render much more accurately, and negative prompts (things you don't want) finally work reliably. For illustrators taking client commissions, this means fewer revision rounds.</p>
+            <div class="article-tags">
+              <span class="art-tag">Midjourney</span>
+              <span class="art-tag">AI Image</span>
+              <span class="art-tag">Design Freelancing</span>
+            </div>
+            <div class="article-source">Source: <a href="#">Midjourney Official</a> · Curated by AIEarn</div>
+          </div>
+        </div>
+
+        <div class="article-card" data-cat="news">
+          <div class="article-num">07</div>
+          <div class="article-body">
+            <div class="article-meta-top">
+              <span class="art-cat art-cat-news">📡 Industry News</span>
+              <span class="art-time">Yesterday</span>
+            </div>
+            <h3><a href="#">Perplexity Pro launches affiliate program: 25% recurring monthly commission</a></h3>
+            <p>Perplexity has officially opened its affiliate program. Monthly subscription is $20, and affiliates earn $5/month for every active referral — for as long as they stay subscribed. One of the few AI tools offering true recurring commission. Worth adding to your affiliate portfolio.</p>
+            <div class="article-tags">
+              <span class="art-tag af">Affiliate Opportunity ↗</span>  <!-- AFFILIATE TAG -->
+              <span class="art-tag">Perplexity</span>
+              <span class="art-tag">Passive Income</span>
+            </div>
+            <div class="article-source">Source: Perplexity Official · Curated by AIEarn</div>
+          </div>
+        </div>
+
+      </div><!-- /#article-list -->
+
+      <!-- AD SLOT 2: IN-ARTICLE MID -->
+      <div class="ad-slot ad-article">[ Google AdSense — In-article 728×90 ]</div>
+
+      <div class="pagination">
+        <a href="#" class="page-btn active">1</a>
+        <a href="#" class="page-btn">2</a>
+        <a href="#" class="page-btn">3</a>
+        <a href="#" class="page-btn">4</a>
+        <a href="#" class="page-btn">5</a>
+        <a href="#" class="page-btn">···</a>
+        <a href="#" class="page-btn">Next →</a>
+      </div>
+    </div>
+
+    <!-- RIGHT SIDEBAR -->
+    <div>
+
+      <!-- AD SLOT 3: SIDEBAR TOP 300×250 -->
+      <div class="ad-slot ad-rect">[ Google AdSense — 300×250 ]</div>
+
+      <!-- AFFILIATE SIDEBAR: TOP PICKS -->  <!-- AFFILIATE SPOTS -->
+      <div class="sidebar-box" style="border-color:var(--gold);background:linear-gradient(135deg,#faf7f0,#f5f0e0);">
+        <div class="sidebar-head" style="color:var(--gold);">⭐ Today's Top Tools</div>
+
+        <div class="af-card">
+          <div class="af-card-badge top">⭐ Most recommended</div>
+          <div class="af-card-name">ChatGPT Plus</div>
+          <div class="af-card-desc">Best all-round AI side-hustle tool. Unlimited GPT-4o for $20/month.</div>
+          <a href="#" class="af-btn af-btn-red">Subscribe Now →</a>
+          <!-- REPLACE href="#" with your ChatGPT affiliate/referral link -->
+        </div>
+
+        <div class="af-card">
+          <div class="af-card-badge comm">💰 30% monthly commission</div>
+          <div class="af-card-name">Jasper AI</div>
+          <div class="af-card-desc">Pro copywriting AI. Best for English content freelancing. $39/month.</div>
+          <a href="#" class="af-btn af-btn-dark">Free Trial →</a>
+          <!-- REPLACE href="#" with your Jasper affiliate link -->
+        </div>
+
+        <div class="af-card">
+          <div class="af-card-badge comm">💰 22% monthly commission</div>
+          <div class="af-card-name">ElevenLabs</div>
+          <div class="af-card-desc">Best AI voice tool. Great for YouTube narration and podcasts.</div>
+          <a href="#" class="af-btn af-btn-dark">Free Trial →</a>
+          <!-- REPLACE href="#" with your ElevenLabs affiliate link -->
+        </div>
+
+        <div class="af-card">
+          <div class="af-card-badge comm">💰 25% monthly commission</div>
+          <div class="af-card-name">Perplexity Pro</div>
+          <div class="af-card-desc">AI research tool. New affiliate program — recurring commission.</div>
+          <a href="#" class="af-btn af-btn-dark">Free Trial →</a>
+          <!-- REPLACE href="#" with your Perplexity affiliate link -->
+        </div>
+      </div>
+
+      <!-- AD SLOT 4: SIDEBAR MID 200×200 -->
+      <div class="ad-slot ad-sq">[ Google AdSense — 300×200 ]</div>
+
+      <!-- CATEGORY INDEX -->
+      <div class="sidebar-box">
+        <div class="sidebar-head">Browse by Category</div>
+        <div class="sidebar-item"><a href="#">🤖 AI Tools (47)</a><div class="s-meta">ChatGPT · Claude · Midjourney…</div></div>
+        <div class="sidebar-item"><a href="#">💰 Side Hustles (38)</a><div class="s-meta">Freelancing · Passive income…</div></div>
+        <div class="sidebar-item"><a href="#">📚 Course Deals (22)</a><div class="s-meta">Udemy · Coursera · Free…</div></div>
+        <div class="sidebar-item"><a href="#">🔧 Prompt Tips (31)</a><div class="s-meta">Templates · Advanced…</div></div>
+        <div class="sidebar-item"><a href="#">📡 Industry News (89)</a><div class="s-meta">Daily updates</div></div>
+      </div>
+
+      <!-- MOST READ THIS WEEK -->
+      <div class="sidebar-box">
+        <div class="sidebar-head">Most Read This Week</div>
+        <div class="sidebar-item"><a href="#">7 ways to earn back ChatGPT Plus in one month</a><div class="s-meta">8,420 views · #1 this week</div></div>
+        <div class="sidebar-item"><a href="#">How to get Midjourney clients on Fiverr</a><div class="s-meta">6,180 views · #2</div></div>
+        <div class="sidebar-item"><a href="#">Best AI affiliate programs ranked by commission</a><div class="s-meta">5,320 views · #3</div></div>
+        <div class="sidebar-item"><a href="#">Build an income automation with Claude API</a><div class="s-meta">4,890 views · #4</div></div>
+      </div>
+
+      <!-- AFFILIATE: COURSE PICK -->  <!-- AFFILIATE SPOT -->
+      <div style="border:1px solid var(--green);padding:14px;background:var(--paper);margin-bottom:16px;">
+        <div style="font-family:var(--mono);font-size:9px;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:8px;color:var(--green);">📚 Course Pick · Affiliate</div>
+        <div style="font-family:var(--serif);font-size:14px;font-weight:700;margin-bottom:5px;line-height:1.3;">Udemy: Complete AI Automation Bootcamp</div>
+        <div style="font-size:11px;color:var(--ink3);margin-bottom:8px;">★★★★★ 4.8 · 12,400 students · Lifetime access</div>
+        <div style="display:flex;align-items:baseline;gap:8px;margin-bottom:10px;">
+          <span style="font-family:var(--mono);font-size:18px;font-weight:700;color:var(--red);">$9.99</span>
+          <span style="font-family:var(--mono);font-size:11px;color:var(--ink3);text-decoration:line-through;">$99</span>
+          <span style="font-family:var(--mono);font-size:9px;color:var(--green);">Sale ends 3/31</span>
+        </div>
+        <a href="#" style="display:block;text-align:center;background:var(--green);color:#fff;font-family:var(--mono);font-size:10px;padding:7px;text-decoration:none;letter-spacing:0.08em;text-transform:uppercase;">Get This Course →</a>
+        <!-- REPLACE href="#" with your Udemy affiliate link -->
+        <p style="font-family:var(--mono);font-size:9px;color:var(--ink3);margin-top:6px;text-align:center;">Affiliate link · We may earn a commission</p>
+      </div>
+
+    </div>
+  </div>
+
+</div><!-- /container -->
+
+<footer>
+  <div class="footer-brand">AI<span>Earn</span>.today</div>
+  <div class="footer-links">
+    <a href="index.html">Home</a>
+    <a href="news.html">News</a>
+    <a href="#">Affiliate Disclosure</a>
+    <a href="#">Privacy Policy</a>
+  </div>
+  <div class="footer-copy">This site contains affiliate links — we may earn a commission at no extra cost to you · Auto-updated daily at 8:00 AM</div>
+</footer>
+
+<!-- GOOGLE TRANSLATE -->
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+    autoDisplay: false
+  }, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script>
+// Dates
+const now = new Date();
+const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const d = `${days[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
+document.getElementById('live-date').textContent = d;
+document.getElementById('digest-date').textContent = d;
+const start = new Date('2025-01-01');
+document.getElementById('issue-num').textContent = '#' + String(Math.floor((now-start)/864e5)).padStart(3,'0');
+
+// Category filter
+document.querySelectorAll('.cat-tab').forEach(tab => {
+  tab.addEventListener('click', function(e) {
+    e.preventDefault();
+    document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+    this.classList.add('active');
+    const cat = this.dataset.cat;
+    document.querySelectorAll('.article-card').forEach(card => {
+      card.style.display = (cat === 'all' || card.dataset.cat === cat) ? 'flex' : 'none';
+    });
+  });
+});
+</script>
+</body>
+</html>
