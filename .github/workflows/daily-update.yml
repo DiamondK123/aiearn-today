@@ -45,14 +45,13 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
           server-dir: /public_html/
-          include: |
-            index.html
-            news.html
           exclude: |
             .git*
             .github*
             fetch_news.py
             requirements.txt
             README.md
-            _archive/
+            _archive/**
             **/.DS_Store
+            *.zip
+            *.json
