@@ -164,16 +164,25 @@ def build_article_list(articles):
 # ── 4. INJECT HTML FILES ──────────────────────────────────────────────────────
 
 def inject(filepath, zones):
-    """Replace innerHTML of elements by id. zones = {id: new_html}"""
+    """Replace content between <!-- BEGIN:id --> and <!-- END:id --> markers."""
     content = Path(filepath).read_text(encoding="utf-8")
     for eid, html in zones.items():
-        pattern = rf'(<[^>]+\bid="{re.escape(eid)}"[^>]*>)(.*?)(</[^>]+>)'
-        new, n = re.subn(pattern, rf'\g<1>{html}\g<3>', content, count=1, flags=re.DOTALL)
-        if n:
-            print(f"  ✓ #{eid} injected ({filepath})")
-            content = new
+        begin = f"<!-- BEGIN:{eid} -->"
+        end   = f"<!-- END:{eid} -->"
+        if begin in content and end in content:
+            import re as _re
+            pattern = _re.escape(begin) + r".*?" + _re.escape(end)
+            replacement = begin + "
+" + html + "
+" + end
+            new_content, n = _re.subn(pattern, replacement, content, count=1, flags=_re.DOTALL)
+            if n:
+                print(f"  checkmark #{eid} injected ({filepath})")
+                content = new_content
+            else:
+                print(f"  x #{eid} replace failed ({filepath})")
         else:
-            print(f"  ✗ #{eid} not found ({filepath})")
+            print(f"  x #{eid} markers not found ({filepath})")
     Path(filepath).write_text(content, encoding="utf-8")
 
 
