@@ -29,29 +29,21 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_news.py
 
-      - name: 💾 Commit updated HTML to GitHub
+      - name: 💾 Commit updated pages to GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AIEarn Bot"
-          git add index.html news.html _archive/ || true
+          git add index.html news*.html _archive/ || true
           git diff --staged --quiet || git commit -m "📰 Daily update: $(date +'%Y-%m-%d') 08:00 UTC+8"
           git push || true
 
-      - name: 🚀 Upload to Hostinger via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - name: 🚀 Deploy to Hostinger via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./
-          server-dir: /public_html/
-          exclude: |
-            .git*
-            .github*
-            fetch_news.py
-            requirements.txt
-            README.md
-            _archive/**
-            **/.DS_Store
-            *.zip
-            *.json
+          port: 22
+          local_path: './*.html'
+          remote_path: '/home/${{ secrets.FTP_USERNAME }}/public_html'
+          sftp_only: true
