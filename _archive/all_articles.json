@@ -1,5 +1,16 @@
 [
   {
+    "rank": 14,
+    "category": "news",
+    "title_en": "OpenAI Shuts Down Sora After 6 Months Operation",
+    "summary_en": "OpenAI unexpectedly shut down Sora, their AI video generation tool, just six months after public release, raising questions about data collection practices and business viability. This creates opportunities for entrepreneurs to fill the video AI gap with alternative tools like RunwayML or Stability AI, or develop specialized video services while the market leader retreats.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
     "rank": 20,
     "category": "money",
     "title_en": "28 Odd Job Apps: Earn Up to $100/Hour Flexibly",
