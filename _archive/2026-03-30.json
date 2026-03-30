@@ -1,0 +1,222 @@
+[
+  {
+    "rank": 1,
+    "category": "news",
+    "title_en": "AI Doubles Software Productivity: 170% Throughput at 80% Headcount",
+    "summary_en": "Real-world case study shows dramatic productivity gains using AI in software development. Company achieved 170% throughput while reducing headcount to 80%, demonstrating how AI tools can massively amplify developer output. Product managers are now shipping code in days, not weeks. This represents a fundamental shift in how software teams operate and scale their revenue-generating capabilities.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 2,
+    "category": "tool",
+    "title_en": "Claude Subscriptions Double as AI Tool Dominates Consumer Market",
+    "summary_en": "Anthropic's Claude has seen paid subscriptions more than double in 2024, with total users estimated between 18-30 million. This surge indicates massive monetization potential for AI service providers and affiliate marketers. Claude's popularity with paying customers proves the market for premium AI subscriptions is exploding, creating opportunities for those promoting AI tools and services.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing",
+    "affiliate": true,
+    "hot": true,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 3,
+    "category": "news",
+    "title_en": "OpenAI IPO Coming: $40B SoftBank Loan Points to 2026",
+    "summary_en": "Wall Street giants JPMorgan and Goldman Sachs are backing a $40 billion loan to SoftBank, signaling OpenAI's public offering is imminent. This IPO could be the largest AI company debut ever, creating massive investment opportunities. Early investors and those positioned in AI stocks could see substantial returns when OpenAI goes public.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 4,
+    "category": "tool",
+    "title_en": "Google's TurboQuant Cuts AI Costs 50% While 8x Speed Boost",
+    "summary_en": "Google's breakthrough TurboQuant algorithm reduces AI memory costs by over 50% while delivering 8x speed improvements. This cost reduction makes AI applications more profitable for businesses and entrepreneurs. Lower operational costs mean higher margins for AI-powered services, making it easier to build profitable AI businesses and compete on price.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 5,
+    "category": "tool",
+    "title_en": "Mistral Releases Free Text-to-Speech Model Beating ElevenLabs",
+    "summary_en": "Mistral AI just released open-source text-to-speech technology that outperforms premium ElevenLabs services, available for free. This democratizes voice AI capabilities, allowing entrepreneurs to build voice applications without expensive licensing fees. The free model opens opportunities for voice-over services, audiobook creation, and AI assistant development at zero cost.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 6,
+    "category": "tool",
+    "title_en": "ChatGPT Launches Shopping Features for Product Discovery Revenue",
+    "summary_en": "ChatGPT introduces visual shopping capabilities through the Agentic Commerce Protocol, enabling product discovery and merchant integration. This creates new revenue opportunities for affiliate marketers and e-commerce businesses. Users can now discover and compare products directly in ChatGPT, opening monetization channels through product recommendations and merchant partnerships within the AI platform.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 7,
+    "category": "tool",
+    "title_en": "Bank of America Deploys AI Agents to 1,000 Financial Advisers",
+    "summary_en": "Bank of America is rolling out AI-powered advisory platforms to 1,000 financial advisers, marking mainstream adoption of AI in wealth management. This trend creates opportunities for financial AI tools and consulting services. As traditional finance embraces AI agents, there's growing demand for AI solutions that help financial professionals increase client capacity and revenue.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 8,
+    "category": "tool",
+    "title_en": "Visa Tests AI Agent Payment Systems for Automated Transactions",
+    "summary_en": "Visa is preparing payment infrastructure for AI agents to initiate transactions autonomously, revolutionizing how money moves. This opens opportunities for AI-powered commerce platforms and automated business services. Entrepreneurs can build AI agents that handle purchasing, subscriptions, and payments without human intervention, creating new automated revenue streams.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 9,
+    "category": "tool",
+    "title_en": "86% of Family Offices Use AI for Financial Data Insights",
+    "summary_en": "New research shows 86% of family offices managing $119.37 billion in combined wealth now use AI for financial analysis. This massive adoption by ultra-wealthy investors validates AI's money-making potential. The trend creates opportunities for AI financial tools, data analysis services, and consulting for high-net-worth individuals seeking AI-powered investment strategies.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 10,
+    "category": "tool",
+    "title_en": "IndexCache Delivers 1.82x Faster AI Inference Cutting 75% Costs",
+    "summary_en": "Tsinghua University's IndexCache technology cuts 75% of computation costs in AI models while delivering 1.82x speed improvements. This breakthrough makes AI applications more profitable by dramatically reducing operational expenses. Businesses using long-context AI models can now serve more customers at lower costs, directly improving profit margins and competitive positioning.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 11,
+    "category": "tool",
+    "title_en": "Intercom's Fin Apex 1.0 Beats GPT-4 at Customer Service",
+    "summary_en": "Intercom launched Fin Apex 1.0, a specialized AI model that outperforms GPT-4 and Claude Sonnet in customer service tasks. This shows how companies can build profitable niche AI solutions for specific industries. The success validates opportunities for entrepreneurs to create specialized AI models serving particular business needs rather than competing with general-purpose systems.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 12,
+    "category": "tool",
+    "title_en": "NVIDIA Agent Toolkit Helps Deploy Enterprise AI Agents Safely",
+    "summary_en": "NVIDIA's new Agent Toolkit addresses enterprise concerns about AI agent deployment, providing safe frameworks for business implementation. This removes barriers to enterprise AI adoption, creating opportunities for consultants and service providers. Companies can now confidently deploy AI agents, opening markets for implementation services, training, and ongoing AI agent management solutions.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 13,
+    "category": "tool",
+    "title_en": "STADLER Transforms 650 Employee Productivity with ChatGPT Integration",
+    "summary_en": "230-year-old company STADLER revolutionized knowledge work across 650 employees using ChatGPT, demonstrating massive productivity gains in traditional industries. This case study proves AI adoption can transform established businesses regardless of age or industry. The success model provides a blueprint for consultants helping traditional companies implement AI for competitive advantage and cost savings.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/stadler",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 14,
+    "category": "tool",
+    "title_en": "Multimodal AI Automates Complex Finance Workflows for Revenue Growth",
+    "summary_en": "New multimodal AI frameworks are automating complex financial workflows, solving document processing challenges that cost businesses millions annually. Finance teams can now extract data from unstructured documents automatically, reducing manual labor costs significantly. This creates opportunities for AI automation consultants and SaaS providers targeting financial services with workflow optimization solutions.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 15,
+    "category": "tool",
+    "title_en": "UK Government Adopts Palantir AI for Financial Operations",
+    "summary_en": "The UK's Financial Conduct Authority is testing Palantir's Foundry platform to identify illicit financial activities, representing massive government AI adoption. This validates enterprise AI platforms for regulatory compliance, creating opportunities for businesses serving financial institutions. Government endorsement of AI for critical operations signals a huge market for compliance and regulatory AI solutions.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 16,
+    "category": "prompt",
+    "title_en": "GEO Strategy: Why Prompt Volume Shouldn't Drive AI Content",
+    "summary_en": "Generative Engine Optimization expert explains why focusing on high-volume prompts is wrong for AI visibility strategies. Most prompt data is estimated and unreliable, making volume-based approaches ineffective for businesses. Smart entrepreneurs should focus on prompt quality and relevance rather than volume, creating better opportunities for AI-optimized content that actually generates revenue.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/geo-best-practices-prompt-volume-shoudnt-drive-strategy",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 17,
+    "category": "tool",
+    "title_en": "Voice Search Ads Transform Google Search Reports in 2026",
+    "summary_en": "Google Ads Search Term Reports are being revolutionized by voice search, changing how advertisers track and optimize campaigns. Traditional keyword-based advertising is evolving toward conversational queries, creating new opportunities for voice-optimized ad strategies. Marketers who adapt early to voice search advertising will capture market share as search behavior fundamentally shifts.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/voice-search-ads-changing-search-term-report",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 18,
+    "category": "tool",
+    "title_en": "AI Graphic Design Tools Support Creative Process Without Replacement",
+    "summary_en": "AI tools are being integrated into Figma, Adobe, and design workflows to enhance rather than replace creative professionals. This approach removes friction from design processes while preserving human creativity. Designers can leverage AI to handle routine tasks, allowing focus on high-value creative work that commands premium rates and builds stronger client relationships.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/how-use-ai-graphic-design",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 19,
+    "category": "news",
+    "title_en": "Meta Spends $27B on AI Infrastructure While Cutting 16K Jobs",
+    "summary_en": "Meta committed $27 billion to AI infrastructure in tech's largest deal, while announcing 16,000 layoffs to fund the investment. This massive spending shift shows where tech giants are betting their future profits. The AI infrastructure boom creates opportunities for contractors, consultants, and service providers supporting the buildout of AI capabilities across major technology companies.",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/474",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  },
+  {
+    "rank": 20,
+    "category": "news",
+    "title_en": "Yann LeCun Raises $1B for AMI Labs at $3.5B Valuation",
+    "summary_en": "AI pioneer Yann LeCun left Meta and raised $1.03 billion in four months for AMI Labs, achieving Europe's largest seed round ever. The $3.5 billion valuation demonstrates massive investor appetite for AI ventures. This funding frenzy creates opportunities for AI entrepreneurs, as investors are actively seeking the next breakthrough AI companies to back with billion-dollar valuations.",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/473",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-30"
+  }
+]
