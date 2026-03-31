@@ -1,0 +1,222 @@
+[
+  {
+    "rank": 1,
+    "category": "news",
+    "title_en": "AI Software Development Achieves 170% Productivity at 80% Headcount",
+    "summary_en": "Real-world case study shows dramatic efficiency gains in software development using AI tools. One engineering organization achieved 170% throughput with only 80% of original staff, demonstrating how AI can transform team productivity. The implementation allowed product managers to build and ship features directly, bypassing traditional development cycles. This represents a significant opportunity for freelancers and agencies to leverage AI for competitive advantage and higher profit margins.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 2,
+    "category": "tool",
+    "title_en": "ChatGPT Launches Visual Shopping and Product Discovery Features",
+    "summary_en": "ChatGPT introduces new commerce capabilities powered by the Agentic Commerce Protocol, enabling immersive product discovery and side-by-side comparisons. Users can now shop directly through ChatGPT with rich visual experiences and merchant integration. This creates opportunities for affiliate marketers, e-commerce consultants, and digital marketing agencies to leverage AI-powered shopping experiences. The integration of commerce into conversational AI opens new revenue streams for content creators and influencers.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "affiliate": true,
+    "hot": true,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 3,
+    "category": "tool",
+    "title_en": "Cohere's Open ASR Model Challenges Speech API Market",
+    "summary_en": "Cohere releases open-weight speech recognition model achieving 5.4% word error rate, competitive with premium APIs. This production-grade transcription tool offers enterprises an alternative to costly closed APIs with data residency benefits. Developers can now build voice-enabled applications without recurring API fees, creating opportunities for SaaS builders, app developers, and consultants to offer more profitable voice solutions to clients while maintaining better margins.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 4,
+    "category": "tool",
+    "title_en": "IndexCache Delivers 1.82x Faster AI Model Inference Performance",
+    "summary_en": "New optimization technique cuts 75% of redundant computation in long-context AI models, delivering 1.82x faster inference speeds. This breakthrough addresses the expensive problem of processing 200,000+ tokens through large language models. For AI service providers and consultants, this means significantly reduced operational costs and improved client deliverables. The technology enables more profitable AI applications by reducing compute expenses while maintaining quality.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 5,
+    "category": "news",
+    "title_en": "JPMorgan Tracks Employee AI Usage for Performance Reviews",
+    "summary_en": "JPMorgan Chase requires 65,000 engineers to use AI tools as part of regular workflow, with managers tracking usage for performance evaluations. This corporate mandate signals the importance of AI proficiency for career advancement in major organizations. Professionals skilled in AI tools gain competitive advantage, while AI training providers can capitalize on corporate demand for upskilling programs. The policy indicates AI literacy is becoming essential for high-paying tech roles.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 6,
+    "category": "tool",
+    "title_en": "Qodo Raises $70M for AI Code Verification Solutions",
+    "summary_en": "As AI generates more code, Qodo secures major funding to ensure code quality and reliability. The startup addresses the critical challenge of verifying AI-generated code works correctly in production environments. This creates opportunities for developers to offer code review services, quality assurance consulting, and AI code auditing. Software agencies can differentiate by providing verified AI development services, commanding premium rates for reliable AI-assisted development.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 7,
+    "category": "tool",
+    "title_en": "Intercom's Fin Apex 1.0 Beats GPT-5.4 for Customer Service",
+    "summary_en": "Intercom launches purpose-built AI model that outperforms leading frontier models for customer service applications. Fin Apex 1.0 demonstrates how specialized AI models can exceed general-purpose alternatives in specific domains. This validates opportunities for businesses to develop niche AI solutions, creating consulting opportunities for domain experts. Customer service agencies can leverage specialized models to deliver superior results and justify premium pricing over generic AI implementations.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 8,
+    "category": "news",
+    "title_en": "86% of Family Offices Use AI for Financial Insights",
+    "summary_en": "Ocorian research reveals vast majority of family offices managing $119.37 billion combined wealth now utilize AI for operations and data analysis. This massive adoption in high-net-worth circles indicates strong demand for AI financial services. Wealth management consultants, fintech developers, and AI specialists can target this lucrative market. The trend shows AI expertise commands premium rates in financial services, with family offices willing to pay for sophisticated data insights.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 9,
+    "category": "money",
+    "title_en": "AI Changes Currency Trading: Price Forecasting Tools Assessed",
+    "summary_en": "Analysis reveals how AI-powered forecasting tools perform in live currency markets, addressing trader concerns about accuracy claims versus real results. Understanding AI system reliability becomes crucial for trading success and risk management. This creates opportunities for AI trading consultants, algorithm developers, and financial technology services. Traders who master AI tools gain significant advantages, while AI training focused on finance commands premium rates in professional development markets.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 10,
+    "category": "news",
+    "title_en": "Secure AI Governance Accelerates Financial Revenue Growth",
+    "summary_en": "Financial institutions discover compliant AI deployment strategies that drive revenue growth and market advantage. Moving beyond efficiency gains, banks now use AI for direct revenue generation while maintaining regulatory compliance. This creates consulting opportunities for AI governance specialists, compliance experts, and fintech developers. Organizations that master secure AI implementation can command premium rates while helping financial firms unlock new revenue streams safely.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 11,
+    "category": "tool",
+    "title_en": "STADLER Transforms 650 Employees with ChatGPT Implementation",
+    "summary_en": "230-year-old company successfully reshapes knowledge work using ChatGPT across 650 employees, saving time and accelerating productivity. This case study demonstrates AI's potential to transform traditional businesses regardless of industry age. The implementation provides a blueprint for AI consultants and transformation specialists to offer similar services to established companies. Organizations seeking digital transformation represent a lucrative market for AI implementation experts and change management professionals.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/stadler",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 12,
+    "category": "tool",
+    "title_en": "Midjourney Engineer Launches Open Source Web Design Standard",
+    "summary_en": "Former Midjourney engineer debuts Pretext, a new open-source standard to revolutionize web design beyond traditional HTML/CSS limitations. This breakthrough addresses 30-year-old architectural constraints in web development, promising more intuitive design workflows. Web designers and developers can leverage this tool to create more sophisticated interfaces while reducing development time. Early adopters of new design standards often command premium rates and gain competitive advantages in client work.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 13,
+    "category": "news",
+    "title_en": "15% of Americans Willing to Work for AI Boss",
+    "summary_en": "Quinnipiac University poll reveals 15% of Americans would accept jobs with AI supervisors handling task assignment and scheduling. This shift in workplace acceptance indicates growing opportunities for AI management platforms and HR technology. Businesses developing AI management tools can target receptive workforce segments. HR consultants and workplace technology providers can capitalize on this trend by offering AI-enhanced management solutions to forward-thinking companies seeking competitive talent advantages.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 14,
+    "category": "prompt",
+    "title_en": "GEO Strategy: Why Prompt Volume Shouldn't Drive Decisions",
+    "summary_en": "Generative Engine Optimization expert reveals why high-volume prompt data misleads strategy development, as most metrics are estimated rather than accurate. Smart GEO practitioners should focus on quality over quantity when optimizing for AI search results. This insight creates opportunities for specialized GEO consultants who understand nuanced optimization strategies. Businesses that master effective GEO techniques gain competitive advantages in AI-driven search results and customer discovery.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/geo-best-practices-prompt-volume-shoudnt-drive-strategy/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 15,
+    "category": "tool",
+    "title_en": "AI Graphic Design Guide: Support Without Replacing Creativity",
+    "summary_en": "Comprehensive guide shows how to integrate AI into graphic design workflows without compromising creative processes. AI tools now work within Figma, Adobe, and major design platforms to remove friction rather than replace designers. This approach helps designers increase productivity while maintaining creative control. Freelance designers who master AI integration can offer faster turnaround times and competitive pricing while delivering high-quality results to clients.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/how-use-ai-graphic-design/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 16,
+    "category": "news",
+    "title_en": "Voice Search Ads Transform Google Search Reports in 2026",
+    "summary_en": "Google Ads Search Term Reports evolve dramatically as voice search changes query patterns from simple keywords to complex conversational phrases. Traditional search optimization strategies become less effective as user behavior shifts. This transformation creates opportunities for voice search specialists, conversational AI consultants, and advertising strategists who understand new search patterns. Agencies that adapt quickly to voice search trends can offer cutting-edge services to clients struggling with traditional approaches.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/voice-search-ads-changing-search-term-report/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 17,
+    "category": "news",
+    "title_en": "AEO vs GEO: AI-Driven Brand Discovery Reshapes 2026 Marketing",
+    "summary_en": "Pew Research analysis of 68,879 Google searches reveals users click traditional results only 8% when seeing AI summaries, versus 15% without. This dramatic shift requires new optimization strategies for Answer Engine Optimization versus traditional SEO. Marketing consultants who master both AEO and GEO can offer comprehensive visibility strategies. The data indicates urgent need for businesses to adapt their content strategies for AI-powered search environments.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 18,
+    "category": "money",
+    "title_en": "Start Service Business: Step-by-Step Income Replacement Guide",
+    "summary_en": "Comprehensive guide reveals how to build service businesses with minimal startup costs and no barriers to entry for fastest income generation. Service businesses offer immediate revenue potential compared to product-based ventures. The guide covers practical steps from concept to client acquisition, providing actionable framework for aspiring entrepreneurs. This business model appeals to those seeking quick income replacement without significant upfront investment or complex operational requirements.",
+    "source": "Side Hustle Nation",
+    "link": "https://www.sidehustlenation.com/start-a-service-business/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 19,
+    "category": "money",
+    "title_en": "28 Odd Job Apps: Earn Up to $100/Hour",
+    "summary_en": "Comprehensive list of mobile applications connecting workers with flexible odd jobs paying up to $100 per hour. These platforms enable immediate income generation without traditional employment commitments or specialized skills. The gig economy continues expanding with diverse opportunities from task completion to specialized services. Workers can stack multiple apps to create substantial income streams while maintaining schedule flexibility and location independence.",
+    "source": "Side Hustle Nation",
+    "link": "https://www.sidehustlenation.com/odd-job-apps/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 20,
+    "category": "news",
+    "title_en": "RPA Evolution: How AI Changes Business Process Automation",
+    "summary_en": "Traditional Robotic Process Automation remains valuable, but AI integration transforms how automation works in business processes. While RPA handles rule-based tasks like data entry and invoice processing, AI enables more sophisticated decision-making and adaptability. This evolution creates opportunities for automation consultants who understand both technologies. Businesses combining RPA with AI achieve superior results, creating demand for hybrid automation expertise and implementation services.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  }
+]

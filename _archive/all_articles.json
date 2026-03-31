@@ -1,5 +1,104 @@
 [
   {
+    "rank": 20,
+    "category": "news",
+    "title_en": "RPA Evolution: How AI Changes Business Process Automation",
+    "summary_en": "Traditional Robotic Process Automation remains valuable, but AI integration transforms how automation works in business processes. While RPA handles rule-based tasks like data entry and invoice processing, AI enables more sophisticated decision-making and adaptability. This evolution creates opportunities for automation consultants who understand both technologies. Businesses combining RPA with AI achieve superior results, creating demand for hybrid automation expertise and implementation services.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 17,
+    "category": "news",
+    "title_en": "AEO vs GEO: AI-Driven Brand Discovery Reshapes 2026 Marketing",
+    "summary_en": "Pew Research analysis of 68,879 Google searches reveals users click traditional results only 8% when seeing AI summaries, versus 15% without. This dramatic shift requires new optimization strategies for Answer Engine Optimization versus traditional SEO. Marketing consultants who master both AEO and GEO can offer comprehensive visibility strategies. The data indicates urgent need for businesses to adapt their content strategies for AI-powered search environments.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 13,
+    "category": "news",
+    "title_en": "15% of Americans Willing to Work for AI Boss",
+    "summary_en": "Quinnipiac University poll reveals 15% of Americans would accept jobs with AI supervisors handling task assignment and scheduling. This shift in workplace acceptance indicates growing opportunities for AI management platforms and HR technology. Businesses developing AI management tools can target receptive workforce segments. HR consultants and workplace technology providers can capitalize on this trend by offering AI-enhanced management solutions to forward-thinking companies seeking competitive talent advantages.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 12,
+    "category": "tool",
+    "title_en": "Midjourney Engineer Launches Open Source Web Design Standard",
+    "summary_en": "Former Midjourney engineer debuts Pretext, a new open-source standard to revolutionize web design beyond traditional HTML/CSS limitations. This breakthrough addresses 30-year-old architectural constraints in web development, promising more intuitive design workflows. Web designers and developers can leverage this tool to create more sophisticated interfaces while reducing development time. Early adopters of new design standards often command premium rates and gain competitive advantages in client work.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 10,
+    "category": "news",
+    "title_en": "Secure AI Governance Accelerates Financial Revenue Growth",
+    "summary_en": "Financial institutions discover compliant AI deployment strategies that drive revenue growth and market advantage. Moving beyond efficiency gains, banks now use AI for direct revenue generation while maintaining regulatory compliance. This creates consulting opportunities for AI governance specialists, compliance experts, and fintech developers. Organizations that master secure AI implementation can command premium rates while helping financial firms unlock new revenue streams safely.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 9,
+    "category": "money",
+    "title_en": "AI Changes Currency Trading: Price Forecasting Tools Assessed",
+    "summary_en": "Analysis reveals how AI-powered forecasting tools perform in live currency markets, addressing trader concerns about accuracy claims versus real results. Understanding AI system reliability becomes crucial for trading success and risk management. This creates opportunities for AI trading consultants, algorithm developers, and financial technology services. Traders who master AI tools gain significant advantages, while AI training focused on finance commands premium rates in professional development markets.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 6,
+    "category": "tool",
+    "title_en": "Qodo Raises $70M for AI Code Verification Solutions",
+    "summary_en": "As AI generates more code, Qodo secures major funding to ensure code quality and reliability. The startup addresses the critical challenge of verifying AI-generated code works correctly in production environments. This creates opportunities for developers to offer code review services, quality assurance consulting, and AI code auditing. Software agencies can differentiate by providing verified AI development services, commanding premium rates for reliable AI-assisted development.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 5,
+    "category": "news",
+    "title_en": "JPMorgan Tracks Employee AI Usage for Performance Reviews",
+    "summary_en": "JPMorgan Chase requires 65,000 engineers to use AI tools as part of regular workflow, with managers tracking usage for performance evaluations. This corporate mandate signals the importance of AI proficiency for career advancement in major organizations. Professionals skilled in AI tools gain competitive advantage, while AI training providers can capitalize on corporate demand for upskilling programs. The policy indicates AI literacy is becoming essential for high-paying tech roles.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-03-31"
+  },
+  {
+    "rank": 3,
+    "category": "tool",
+    "title_en": "Cohere's Open ASR Model Challenges Speech API Market",
+    "summary_en": "Cohere releases open-weight speech recognition model achieving 5.4% word error rate, competitive with premium APIs. This production-grade transcription tool offers enterprises an alternative to costly closed APIs with data residency benefits. Developers can now build voice-enabled applications without recurring API fees, creating opportunities for SaaS builders, app developers, and consultants to offer more profitable voice solutions to clients while maintaining better margins.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-03-31"
+  },
+  {
     "rank": 14,
     "category": "news",
     "title_en": "OpenAI Shuts Down Sora After 6 Months Operation",
