@@ -2,221 +2,221 @@
   {
     "rank": 1,
     "category": "news",
-    "title_en": "OpenAI Raises $122B Fund at $852B Valuation",
-    "summary_en": "OpenAI's massive funding round led by Amazon, Nvidia, and SoftBank positions the AI lab for IPO while expanding ChatGPT and enterprise AI offerings. This unprecedented $122 billion raise signals massive opportunities for AI entrepreneurs, developers, and investors to capitalize on the growing enterprise AI market. The funding will accelerate compute infrastructure and global AI expansion, creating new revenue streams.",
+    "title_en": "OpenAI Raises $122B, Reaches $852B Valuation Before IPO",
+    "summary_en": "OpenAI's massive $122 billion funding round, led by Amazon, Nvidia, and SoftBank, values the AI company at $852 billion as it approaches a public offering. This represents a significant opportunity for investors and AI entrepreneurs to capitalize on the growing demand for ChatGPT, Codex, and enterprise AI solutions. The funding will expand global AI access and next-generation compute infrastructure.",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
     "affiliate": false,
     "hot": true,
-    "date": "2026-04-02"
+    "date": "2026-03-31"
   },
   {
     "rank": 2,
     "category": "tool",
-    "title_en": "Slack Gets 30 AI Features for Enterprise Revenue",
-    "summary_en": "Salesforce's AI makeover transforms Slack into a productivity powerhouse with 30 new AI-powered features. This presents massive opportunities for consultants, automation specialists, and service providers to help businesses implement and optimize these tools. The enhanced AI capabilities enable workflow automation, smart scheduling, and intelligent task management that companies will pay premium rates to deploy effectively.",
+    "title_en": "Slack Gets AI Makeover with 30 Revenue-Boosting Features",
+    "summary_en": "Salesforce's major AI upgrade to Slack introduces 30 new features that can significantly boost workplace productivity and revenue generation. These AI-powered tools automate workflows, enhance team collaboration, and streamline business processes. For entrepreneurs and businesses, this presents opportunities to leverage AI automation for cost savings, improved efficiency, and competitive advantages in client services.",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
     "affiliate": true,
     "hot": true,
-    "date": "2026-04-02"
+    "date": "2026-03-31"
   },
   {
     "rank": 3,
     "category": "tool",
-    "title_en": "ChatGPT Launches Shopping Discovery for Commerce Revenue",
-    "summary_en": "ChatGPT's new Agentic Commerce Protocol enables immersive product discovery and merchant integration, creating lucrative opportunities for affiliate marketers and e-commerce entrepreneurs. The platform's visual shopping features and product comparison tools open new revenue streams through affiliate commissions, sponsored listings, and merchant partnerships. Early adopters can capitalize on this commerce integration for significant income potential.",
+    "title_en": "ChatGPT Launches Shopping Feature for Product Discovery Revenue",
+    "summary_en": "ChatGPT's new Agentic Commerce Protocol enables immersive shopping experiences with product discovery, side-by-side comparisons, and merchant integration. This creates significant affiliate marketing opportunities, e-commerce revenue streams, and new ways to monetize AI-powered shopping recommendations. Entrepreneurs can leverage this for affiliate income, product comparisons, and automated sales processes.",
     "source": "OpenAI",
     "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
     "affiliate": true,
-    "hot": true,
-    "date": "2026-04-02"
+    "hot": false,
+    "date": "2026-04-01"
   },
   {
     "rank": 4,
     "category": "prompt",
-    "title_en": "Meta's Code Review Prompts Boost Accuracy to 93%",
-    "summary_en": "Meta's structured prompting technique dramatically improves AI code review accuracy to 93%, creating income opportunities for developers and coding consultants. This breakthrough enables freelance programmers to offer premium AI-assisted code review services, while software agencies can reduce costs and increase margins. The technique works without expensive sandboxes, making it accessible for independent developers to monetize.",
+    "title_en": "Meta's Code Review Prompts Boost AI Accuracy to 93%",
+    "summary_en": "Meta's structured prompting technique dramatically improves LLM performance in code review tasks, achieving 93% accuracy in some cases. This breakthrough offers freelance developers and AI consultants powerful new methods to offer premium code review services, automated bug detection, and repository analysis. The technique can be applied to create profitable AI-powered development tools and consulting services.",
     "source": "VentureBeat",
     "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 5,
     "category": "tool",
-    "title_en": "Intuit's AI Agents Hit 85% Repeat Usage Rate",
-    "summary_en": "Intuit's AI agents achieved 85% repeat usage by combining AI with human expertise, proving the AI-human hybrid model drives customer retention and revenue. This success pattern shows consultants and service providers how to build sustainable AI-powered businesses. The key insight: keeping humans involved increases customer satisfaction and willingness to pay premium rates for AI-enhanced services.",
-    "source": "VentureBeat",
-    "link": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved",
+    "title_en": "Gradient Labs Creates AI Bank Account Managers",
+    "summary_en": "Gradient Labs uses GPT-4.1 and GPT-5.4 to power AI agents that automate banking support workflows with high reliability. This technology creates opportunities for fintech entrepreneurs, customer service automation specialists, and AI consultants to develop similar solutions for financial institutions. The low-latency, high-reliability approach demonstrates viable business models for AI-powered customer service automation.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/gradient-labs",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 6,
     "category": "tool",
-    "title_en": "Gradient Labs Automates Banking with GPT-4 AI Agents",
-    "summary_en": "Gradient Labs uses GPT-4 to power AI account managers for banks, demonstrating high-value enterprise AI implementation opportunities. This showcases how developers and AI consultants can build specialized industry solutions using OpenAI's models. The banking automation market offers premium pricing for compliance-ready AI solutions, making it attractive for B2B AI service providers seeking recurring revenue.",
-    "source": "OpenAI",
-    "link": "https://openai.com/index/gradient-labs",
-    "affiliate": true,
+    "title_en": "Intuit's AI Agents Achieve 85% Repeat Usage Rate",
+    "summary_en": "Intuit's AI agents delivered to 3 million customers achieved 85% repeat usage by combining AI with human expertise. This human-in-the-loop approach provides a proven blueprint for entrepreneurs building AI services. The success demonstrates how to create sticky AI products that customers return to, offering insights for building sustainable AI-powered businesses with high customer retention.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved",
+    "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 7,
     "category": "tool",
-    "title_en": "Kilo Launches KiloClaw to End Shadow AI Risk",
-    "summary_en": "Kilo's KiloClaw for Organizations addresses the growing 'shadow AI' crisis in enterprises, creating opportunities for AI security consultants and compliance specialists. As companies struggle with unsanctioned AI usage, there's massive demand for secure AI governance solutions. This market gap presents lucrative consulting opportunities for professionals who can help enterprises safely scale AI deployment.",
+    "title_en": "Kilo Launches Enterprise AI Security Platform KiloClaw",
+    "summary_en": "Kilo's KiloClaw for Organizations addresses the growing 'shadow AI' crisis by enabling secure AI agents at enterprise scale. This represents a significant business opportunity for AI security consultants, enterprise software developers, and cybersecurity professionals. As companies struggle with unsanctioned AI use, solutions like KiloClaw create new revenue streams in the rapidly growing AI governance market.",
     "source": "VentureBeat",
     "link": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 8,
-    "category": "money",
-    "title_en": "KPMG AI Agents Drive Enterprise Margin Gains",
-    "summary_en": "KPMG data reveals enterprises investing $1.2 billion in AI but struggling to show ROI, creating massive opportunities for AI implementation consultants. The gap between spending and results means companies will pay premium rates for proven AI deployment strategies. Consultants who can bridge this value gap have access to enterprise budgets worth millions per client engagement.",
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
-    "affiliate": false,
-    "hot": false,
-    "date": "2026-04-02"
-  },
-  {
-    "rank": 9,
     "category": "tool",
-    "title_en": "STADLER Transforms 650-Employee Company with ChatGPT",
-    "summary_en": "STADLER's successful ChatGPT implementation across 650 employees at their 230-year-old company proves AI transformation works for traditional businesses. This case study provides a blueprint for consultants to approach established companies with AI productivity solutions. The documented time savings and productivity gains make it easier to justify premium pricing for similar implementations.",
+    "title_en": "STADLER Transforms 650 Employees with ChatGPT Integration",
+    "summary_en": "230-year-old company STADLER uses ChatGPT to revolutionize knowledge work across 650 employees, saving significant time and accelerating productivity. This case study demonstrates how traditional businesses can leverage AI for operational efficiency and cost savings. Entrepreneurs can use this model to offer AI transformation consulting services to established companies seeking productivity gains.",
     "source": "OpenAI",
     "link": "https://openai.com/index/stadler",
     "affiliate": true,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
+  },
+  {
+    "rank": 9,
+    "category": "news",
+    "title_en": "Cognichip Raises $60M to Cut Chip Design Costs 75%",
+    "summary_en": "Cognichip secured $60 million to develop AI-powered chip design technology that reduces development costs by over 75% and cuts timelines in half. This innovation creates opportunities for hardware entrepreneurs, semiconductor consultants, and tech investors to capitalize on more accessible chip development. The reduced barriers to entry could democratize hardware innovation and create new business opportunities.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-01"
   },
   {
     "rank": 10,
-    "category": "news",
-    "title_en": "Cognichip Raises $60M for AI Chip Design Tool",
-    "summary_en": "Cognichip's $60M funding to use AI for chip design promises 75% cost reduction and 50% faster development, creating opportunities for tech investors and specialized AI consultants. The semiconductor AI market offers high-value consulting opportunities for experts who understand both AI and hardware. Early involvement in this emerging sector could yield significant returns as the industry scales.",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "affiliate": false,
-    "hot": false,
-    "date": "2026-04-02"
-  },
-  {
-    "rank": 11,
     "category": "tool",
-    "title_en": "OpenAI Launches Safety Bug Bounty Program",
-    "summary_en": "OpenAI's Safety Bug Bounty program pays security researchers to find AI vulnerabilities including prompt injection and data exfiltration risks. This creates income opportunities for cybersecurity professionals and ethical hackers to earn bounties while building expertise in AI security. The growing demand for AI safety expertise makes this a lucrative skill development opportunity.",
-    "source": "OpenAI",
-    "link": "https://openai.com/index/safety-bug-bounty",
-    "affiliate": false,
-    "hot": false,
-    "date": "2026-04-02"
-  },
-  {
-    "rank": 12,
-    "category": "money",
-    "title_en": "Financial AI Governance Accelerates Revenue Growth",
-    "summary_en": "Financial institutions using compliant AI solutions see accelerated revenue growth, creating opportunities for fintech consultants and compliance specialists. The shift from efficiency-focused to revenue-generating AI opens premium consulting markets. Financial AI expertise commands high rates as institutions seek competitive advantages through compliant AI deployment while maintaining regulatory requirements.",
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
-    "affiliate": false,
-    "hot": false,
-    "date": "2026-04-02"
-  },
-  {
-    "rank": 13,
-    "category": "tool",
-    "title_en": "SAP Partners ANYbotics for Industrial AI Robots",
-    "summary_en": "SAP's partnership with ANYbotics connects autonomous robots directly to enterprise software, creating opportunities for industrial AI consultants and robotics specialists. This integration opens new markets for service providers who can implement physical AI solutions in manufacturing and hazardous environments. The combination reduces human safety risks while generating new revenue streams for automation experts.",
+    "title_en": "SAP Partners with ANYbotics for Industrial AI Robots",
+    "summary_en": "SAP and ANYbotics connect four-legged autonomous robots directly to enterprise software for hazardous facility inspections. This partnership creates opportunities for robotics entrepreneurs, industrial AI consultants, and safety technology providers. The integration of physical AI with enterprise systems opens new revenue streams in industrial automation, facility management, and safety compliance services.",
     "source": "AI News",
     "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
-    "rank": 14,
+    "rank": 11,
     "category": "money",
-    "title_en": "83% of Enterprises Behind on Language AI Adoption",
-    "summary_en": "DeepL's report shows 83% of enterprises lag in language AI implementation despite broad AI investment, creating massive consulting opportunities. Translation and localization experts can capitalize on this gap by offering AI-enhanced language services. The disconnect between AI spending and language workflow optimization represents millions in untapped consulting revenue for specialists who bridge this gap.",
+    "title_en": "KPMG Report: AI Agents Drive Enterprise Margin Gains",
+    "summary_en": "KPMG's Global AI Pulse survey reveals that while enterprises plan to spend an average of $1.8 billion on AI, many struggle to measure business value. The report identifies AI agents as key drivers of enterprise margin gains, creating opportunities for AI consultants to help businesses implement profitable AI strategies and demonstrate ROI from AI investments.",
     "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+    "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
-    "rank": 15,
+    "rank": 12,
+    "category": "money",
+    "title_en": "Financial AI Governance Accelerates Revenue Growth Opportunities",
+    "summary_en": "Financial institutions are shifting from efficiency-focused AI to revenue-generating compliant AI solutions. This transition creates lucrative opportunities for fintech entrepreneurs, AI compliance consultants, and financial software developers. The focus on governance and compliance opens new markets for specialized AI tools that help financial companies deploy profitable, regulatory-compliant AI systems.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-01"
+  },
+  {
+    "rank": 13,
     "category": "tool",
-    "title_en": "Hershey Applies AI Across Supply Chain Operations",
-    "summary_en": "Hershey's AI implementation across physical supply chain operations demonstrates how food and logistics companies can monetize AI beyond software. This creates opportunities for supply chain consultants and industrial AI specialists to offer similar solutions to other manufacturers. The shift from planning to operational AI opens new markets for consultants with industry expertise.",
+    "title_en": "Hershey Applies AI Across Supply Chain for Efficiency",
+    "summary_en": "Hershey implements AI across physical supply chain operations, moving beyond software into day-to-day business decisions. This demonstrates how AI can optimize logistics, inventory management, and operational efficiency. Entrepreneurs can leverage similar AI approaches for supply chain consulting, logistics automation services, and operational optimization tools for manufacturing and distribution businesses.",
     "source": "AI News",
     "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
+  },
+  {
+    "rank": 14,
+    "category": "course",
+    "title_en": "How AI Design Tools Remove Creative Process Friction",
+    "summary_en": "Neil Patel's guide explains how to integrate AI tools into graphic design workflows without replacing creativity. The article covers AI tools in Figma, Adobe, and product workflows for removing friction and speeding up design processes. This knowledge helps designers and creative entrepreneurs offer faster, more efficient services while maintaining quality, potentially increasing project throughput and income.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/how-use-ai-graphic-design/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-01"
+  },
+  {
+    "rank": 15,
+    "category": "news",
+    "title_en": "Voice Search Ads Transform Google Ads Reports in 2026",
+    "summary_en": "Voice search is fundamentally changing Google Ads Search Term Reports, moving away from traditional keyword-based advertising. This shift creates new opportunities for digital marketers, PPC specialists, and advertising consultants to adapt strategies for voice-first search behavior. Early adopters can gain competitive advantages by mastering voice search optimization and offering specialized services.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/voice-search-ads-changing-search-term-report/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-01"
   },
   {
     "rank": 16,
-    "category": "tool",
-    "title_en": "Glia Wins Banking AI Excellence Award",
-    "summary_en": "Glia's AI Excellence Award for banking customer service platforms validates the market demand for industry-specific AI solutions. This success story provides a blueprint for developers and consultants to create specialized AI tools for financial services. The recognition demonstrates that focused, compliant AI solutions for banking can command premium pricing and industry recognition.",
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
+    "category": "course",
+    "title_en": "GEO Best Practices: Beyond Prompt Volume Strategy",
+    "summary_en": "This guide explains why generative engine optimization shouldn't focus solely on prompt volume data, which is largely estimated. Instead, it provides strategic approaches for optimizing content for AI-powered search engines. Marketers and SEO professionals can use these insights to develop new service offerings in the emerging field of AI search optimization.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/geo-best-practices-prompt-volume-shoudnt-drive-strategy/",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 17,
-    "category": "course",
-    "title_en": "How to Use AI in Graphic Design Process",
-    "summary_en": "Neil Patel's guide shows how to integrate AI into design workflows without replacing creativity, creating opportunities for designers to offer AI-enhanced services. Designers can increase productivity and margins by incorporating AI tools into Figma, Adobe, and product workflows. This approach allows creative professionals to command higher rates while delivering faster results to clients.",
-    "source": "Neil Patel",
-    "link": "https://neilpatel.com/blog/how-use-ai-graphic-design/",
-    "affiliate": true,
+    "category": "news",
+    "title_en": "Jensen Huang Claims AGI Achieved, Benchmarks Show 0.37%",
+    "summary_en": "While Nvidia's CEO declares AGI achievement, ARC-AGI-3 benchmarks reveal AI scored only 0.37% on interactive problem-solving tasks that humans solve perfectly. This gap between marketing claims and actual capabilities creates opportunities for realistic AI service providers who understand current limitations and can offer practical solutions rather than overhyped products to businesses.",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/477",
+    "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 18,
-    "category": "money",
-    "title_en": "Voice Search Ads Transform Google Reports 2026",
-    "summary_en": "Voice search is revolutionizing Google Ads Search Term Reports, creating new opportunities for PPC specialists and digital marketers to adapt their strategies. The shift from traditional keyword targeting to voice-based queries opens new markets for consultants who understand this transition. Early adoption of voice search optimization can command premium rates as businesses struggle to adapt.",
-    "source": "Neil Patel",
-    "link": "https://neilpatel.com/blog/voice-search-ads-changing-search-term-report/",
-    "affiliate": true,
+    "category": "news",
+    "title_en": "Meta Commits $27B to AI, Cuts 16K Jobs",
+    "summary_en": "Meta's $27 billion AI infrastructure investment comes alongside 16,000 layoffs, representing one of tech's largest deals. This massive resource reallocation toward AI signals major market opportunities for AI contractors, displaced tech workers transitioning to AI services, and entrepreneurs building tools for companies undergoing similar AI transformations. The job displacement creates talent pools for AI startups.",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/474",
+    "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 19,
-    "category": "money",
-    "title_en": "AEO vs GEO Reshapes AI Brand Discovery",
-    "summary_en": "The shift from traditional SEO to AI Engine Optimization (AEO) and Generative Engine Optimization (GEO) creates new revenue opportunities for digital marketers. With only 8% of users clicking traditional results after seeing AI summaries, marketers need new strategies. Specialists who master these emerging optimization techniques can charge premium rates for future-proofed marketing strategies.",
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
+    "category": "news",
+    "title_en": "Yann LeCun Raises $1B, Bets Against Current LLMs",
+    "summary_en": "AI pioneer Yann LeCun left Meta, raised $1.03 billion in four months for AMI Labs, and is betting against current LLM approaches. This $3.5 billion valuation seed round in Paris signals potential disruption in AI approaches. Entrepreneurs and investors should watch for alternative AI architectures and new opportunities emerging from this contrarian bet against mainstream AI development.",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/473",
     "affiliate": false,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-04-01"
   },
   {
     "rank": 20,
     "category": "tool",
-    "title_en": "AI Currency Forecasting Tools Market Assessment",
-    "summary_en": "Analysis of AI-powered price forecasting tools in currency markets reveals opportunities for fintech developers and trading consultants. The scrutiny of AI trading tools' reliability creates demand for transparent, proven solutions. Developers who can build trustworthy AI forecasting systems and consultants who can evaluate these tools for traders have access to lucrative financial markets revenue.",
+    "title_en": "DeepL Report: 83% of Enterprises Behind on Language AI",
+    "summary_en": "DeepL's 2026 report reveals that 83% of enterprises lag in language AI adoption despite broad AI investment. This gap creates significant opportunities for language AI consultants, translation service providers, and multilingual automation specialists. The underutilization of translation workflows in enterprise AI strategies presents a clear market opportunity for specialized language AI solutions and consulting services.",
     "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
-    "affiliate": false,
+    "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+    "affiliate": true,
     "hot": false,
-    "date": "2026-04-02"
+    "date": "2026-03-10"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "rank": 17,
+    "category": "news",
+    "title_en": "Jensen Huang Claims AGI Achieved, Benchmarks Show 0.37%",
+    "summary_en": "While Nvidia's CEO declares AGI achievement, ARC-AGI-3 benchmarks reveal AI scored only 0.37% on interactive problem-solving tasks that humans solve perfectly. This gap between marketing claims and actual capabilities creates opportunities for realistic AI service providers who understand current limitations and can offer practical solutions rather than overhyped products to businesses.",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/477",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-01"
+  },
+  {
+    "rank": 9,
+    "category": "news",
+    "title_en": "Cognichip Raises $60M to Cut Chip Design Costs 75%",
+    "summary_en": "Cognichip secured $60 million to develop AI-powered chip design technology that reduces development costs by over 75% and cuts timelines in half. This innovation creates opportunities for hardware entrepreneurs, semiconductor consultants, and tech investors to capitalize on more accessible chip development. The reduced barriers to entry could democratize hardware innovation and create new business opportunities.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-01"
+  },
+  {
     "rank": 16,
     "category": "tool",
     "title_en": "Glia Wins Banking AI Excellence Award",
