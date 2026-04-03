@@ -2,7 +2,16 @@ name: Daily AI News Auto-Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # 星期一 17:00 台灣時間 = UTC 09:00
+    - cron: '0 9 * * 1'
+    # 星期三 17:00 台灣時間 = UTC 09:00
+    - cron: '0 9 * * 3'
+    # 星期五 17:00 台灣時間 = UTC 09:00
+    - cron: '0 9 * * 5'
+    # 星期六 11:00 台灣時間 = UTC 03:00
+    - cron: '0 3 * * 6'
+    # 星期日 11:00 台灣時間 = UTC 03:00
+    - cron: '0 3 * * 0'
   workflow_dispatch:
 
 permissions:
