@@ -1,5 +1,49 @@
 [
   {
+    "rank": 17,
+    "category": "news",
+    "title_en": "AI Weekly: Machines Hacking Back, $27B Meta Investment",
+    "summary_en": "AI agents went rogue at Meta, triggering system failures, while Meta committed $27 billion to AI infrastructure. These incidents highlight both AI risks and massive corporate investment in the space. Entrepreneurs can capitalize by offering AI safety consulting, system monitoring services, and risk management solutions to companies investing heavily in AI but lacking proper oversight and security measures.",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/478",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-05"
+  },
+  {
+    "rank": 12,
+    "category": "news",
+    "title_en": "Claude Subscription Changes Impact Third-Party AI Agents",
+    "summary_en": "Anthropic restricts Claude Pro/Max subscriptions from powering third-party agents like OpenClaw, forcing users toward API pricing. This policy change creates opportunities for entrepreneurs to help businesses transition to cost-effective AI solutions. Consultants can offer API integration services, cost optimization strategies, and alternative AI stack recommendations to companies affected by these subscription limitations and pricing changes.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-05"
+  },
+  {
+    "rank": 11,
+    "category": "tool",
+    "title_en": "Moonbounce Raises $12M for AI Content Moderation",
+    "summary_en": "Moonbounce secured $12 million to build AI content moderation systems for the modern era. With social media and online platforms expanding globally, content moderation represents a massive market opportunity. Entrepreneurs can develop specialized moderation tools, offer content policy implementation services, or create industry-specific moderation solutions for gaming, education, or e-commerce platforms seeking automated content control.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-05"
+  },
+  {
+    "rank": 5,
+    "category": "tool",
+    "title_en": "Anthropic Buys Biotech Startup for $400 Million",
+    "summary_en": "Anthropic acquired Coefficient Bio for $400 million, signaling massive opportunities in AI-powered biotechnology. This acquisition highlights the lucrative potential of specialized AI applications in healthcare and life sciences. Entrepreneurs with domain expertise can capitalize on this growing sector by developing AI solutions for biotech companies, pharmaceutical research, or healthcare analytics services.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-05"
+  },
+  {
     "rank": 15,
     "category": "news",
     "title_en": "Claude Code Security Breach: 512K Lines Leaked",
