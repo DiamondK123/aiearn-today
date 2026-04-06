@@ -1,5 +1,16 @@
 [
   {
+    "rank": 12,
+    "category": "news",
+    "title_en": "Physical AI Deployment Boom in Japan Creates Opportunities",
+    "summary_en": "Japan is rapidly deploying physical AI from pilot projects to real-world applications, driven by severe labor shortages. This transition creates substantial opportunities for entrepreneurs and developers in robotics, automation consulting, and AI integration services. As Japan proves the commercial viability of physical AI, other markets will follow, creating first-mover advantages for businesses that can replicate successful Japanese models. The labor shortage crisis in developed nations makes physical AI solutions increasingly profitable ventures.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-06"
+  },
+  {
     "rank": 17,
     "category": "news",
     "title_en": "AI Weekly: Machines Hacking Back, $27B Meta Investment",
