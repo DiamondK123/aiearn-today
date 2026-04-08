@@ -1,5 +1,16 @@
 [
   {
+    "rank": 19,
+    "category": "news",
+    "title_en": "North Korea Compromises NPM, Iran Targets AI Centers",
+    "summary_en": "Major security breaches target AI infrastructure: North Korea infiltrates npm packages, Iran publishes OpenAI data center coordinates. New threat landscape emerging.",
+    "slug": "north-korea-npm-iran-ai-security-threats",
+    "source": "AI Weekly",
+    "link": "https://aiweekly.co/issues/480",
+    "affiliate": false,
+    "date": "2026-04-09"
+  },
+  {
     "rank": 17,
     "category": "news",
     "title_en": "Arcee AI: Tiny Startup Building High-Performance Open Models",
