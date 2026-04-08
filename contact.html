@@ -70,6 +70,9 @@ footer{border-top:3px solid var(--ink);padding:24px 32px;background:var(--ink);c
   <a href="/index.html">Home</a>
   <a href="/news.html">Daily News</a>
   <a href="/about.html">About</a>
+  <a href="/affiliate-disclosure.html">Affiliate Disclosure</a>
+  <a href="/privacy-policy.html">Privacy Policy</a>
+  <a href="/contact.html" class="active">Contact</a>
 </div>
 
 <div class="container">
@@ -140,7 +143,7 @@ footer{border-top:3px solid var(--ink);padding:24px 32px;background:var(--ink);c
     <a href="/about.html">About</a>
     <a href="/affiliate-disclosure.html">Affiliate Disclosure</a>
     <a href="/privacy-policy.html">Privacy Policy</a>
-    <a href="/contact.html">Contact</a>
+    <a href="/contact.html" class="active">Contact</a>
   </div>
   <div class="footer-copy">© 2025 AIEarn.today · All rights reserved</div>
 </footer>
@@ -150,15 +153,20 @@ footer{border-top:3px solid var(--ink);padding:24px 32px;background:var(--ink);c
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <script>
 function handleSubmit(){
-  const name = document.getElementById('name').value;
-  const email = document.getElementById('email').value;
-  const message = document.getElementById('message').value;
+  const name = document.getElementById('name').value.trim();
+  const email = document.getElementById('email').value.trim();
+  const subject = document.getElementById('subject').value;
+  const message = document.getElementById('message').value.trim();
   if(!name || !email || !message){
     alert('Please fill in your name, email, and message.');
     return;
   }
+  const body = encodeURIComponent(
+    'From: ' + name + ' (' + email + ')\n\n' + message
+  );
+  const subj = encodeURIComponent('[AIEarn.today] ' + (subject || 'General Inquiry'));
+  window.location.href = 'mailto:mandykeju@hotmail.com?subject=' + subj + '&body=' + body;
   document.getElementById('success-msg').style.display = 'block';
-  document.querySelector('.submit-btn').style.display = 'none';
 }
 </script>
 </body>

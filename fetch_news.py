@@ -257,6 +257,9 @@ def shared_header(active="news"):
         ("/index.html", "Home"),
         ("/news.html", "Daily News"),
         ("/about.html", "About"),
+        ("/affiliate-disclosure.html", "Affiliate Disclosure"),
+        ("/privacy-policy.html", "Privacy Policy"),
+        ("/contact.html", "Contact"),
     ]
     nav = '<div class="nav-bar">'
     for href, label in nav_links:
