@@ -1,5 +1,49 @@
 [
   {
+    "rank": 12,
+    "category": "tool",
+    "title_en": "Microsoft Open-Source Toolkit Secures AI Agents at Runtime",
+    "summary_en": "Microsoft released an open-source toolkit focusing on runtime security for enterprise AI agents. This addresses critical governance gaps as autonomous models execute code faster than traditional policy controls. Security-focused AI consultants can leverage this toolkit to offer specialized services, helping enterprises safely deploy AI agents while maintaining compliance and security standards.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 9,
+    "category": "tool",
+    "title_en": "Atlassian Confluence Adds Visual AI and Third-Party Agents",
+    "summary_en": "Confluence now includes visual AI asset creation and integrates agents from Lovable, Replit, and Gamma. This expansion creates monetization opportunities for developers building Confluence integrations and AI-powered workplace tools. Businesses can leverage these new capabilities to streamline content creation workflows and reduce design costs through automated visual asset generation.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 8,
+    "category": "tool",
+    "title_en": "Astropad Workbench: Remote Control AI Agents via iPhone",
+    "summary_en": "Astropad's Workbench allows users to remotely monitor and control AI agents running on Mac Minis from iPhone or iPad with low-latency streaming. This creates opportunities for AI service providers to manage multiple client deployments remotely, scaling AI agent operations without physical presence. Perfect for consultants running AI automations for multiple businesses.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 7,
+    "category": "tool",
+    "title_en": "Google's Offline AI Dictation App Competes with Wispr",
+    "summary_en": "Google quietly launched an offline-first dictation app using Gemma AI models, directly competing with apps like Wispr Flow. This signals a massive market opportunity in AI-powered productivity tools. Entrepreneurs can capitalize on this trend by developing specialized dictation solutions for specific industries like legal, medical, or content creation.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
     "rank": 18,
     "category": "tool",
     "title_en": "Boomi's Data Activation Solution for AI Deployments",

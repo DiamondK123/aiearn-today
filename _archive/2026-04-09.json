@@ -1,0 +1,222 @@
+[
+  {
+    "rank": 1,
+    "category": "tool",
+    "title_en": "Block's Managerbot: AI Agent Monitors Square Business 24/7",
+    "summary_en": "Square's new Managerbot AI agent proactively monitors business operations, identifies problems, and proposes solutions without merchants asking. This represents a major shift toward autonomous business management, offering Square users automated insights that could significantly reduce operational costs and increase revenue by catching issues before they impact profits.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
+    "affiliate": true,
+    "hot": true,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 2,
+    "category": "tool",
+    "title_en": "LLM Traffic Converts 30-40% Higher Than Traditional Search",
+    "summary_en": "AI-referred website traffic converts at 30-40%, significantly outperforming traditional search traffic. Most enterprises aren't optimizing for this lucrative channel yet. This presents a massive opportunity for businesses to capture high-converting AI-driven traffic by optimizing content for LLM consumption, potentially doubling conversion rates and revenue from organic traffic sources.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 3,
+    "category": "tool",
+    "title_en": "GLM-5.1 Open Source Model Beats GPT-5.4 Performance",
+    "summary_en": "Chinese startup Z.ai released GLM-5.1 under MIT License, outperforming Claude Opus and GPT-5.4 on SWE-Bench Pro. This free, commercially-licensed model offers enterprises a powerful alternative to expensive proprietary AI services. Companies can download, customize, and deploy it without ongoing API costs, potentially saving thousands monthly on AI inference while maintaining competitive performance.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 4,
+    "category": "tool",
+    "title_en": "Amazon S3 Files: Native Workspace for AI Agents",
+    "summary_en": "Amazon's S3 Files bridges the gap between object storage and file systems, enabling AI agents to work with enterprise data through standard file paths instead of complex APIs. This eliminates a major technical barrier preventing multi-agent pipeline deployment in businesses, opening opportunities for AI automation consultants and enterprise AI implementation services.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 5,
+    "category": "tool",
+    "title_en": "OpenAI Codex Gets Flexible Pay-As-You-Go Pricing",
+    "summary_en": "OpenAI introduced pay-as-you-go pricing for ChatGPT Business and Enterprise Codex, making AI development tools more accessible for growing teams. This flexible pricing model allows businesses to start small and scale adoption without large upfront commitments, reducing barriers for agencies and consultants to offer AI-powered development services to clients.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 6,
+    "category": "tool",
+    "title_en": "Gradient Labs: AI Account Manager for Every Bank",
+    "summary_en": "Gradient Labs uses GPT-4.1 and GPT-5.4 to power AI agents that automate banking support workflows with low latency and high reliability. This showcases the revenue potential for businesses developing AI customer service solutions. Financial services companies are paying premium rates for AI automation that can handle complex customer interactions while reducing operational costs.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/gradient-labs",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 7,
+    "category": "tool",
+    "title_en": "Google's Offline AI Dictation App Competes with Wispr",
+    "summary_en": "Google quietly launched an offline-first dictation app using Gemma AI models, directly competing with apps like Wispr Flow. This signals a massive market opportunity in AI-powered productivity tools. Entrepreneurs can capitalize on this trend by developing specialized dictation solutions for specific industries like legal, medical, or content creation.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 8,
+    "category": "tool",
+    "title_en": "Astropad Workbench: Remote Control AI Agents via iPhone",
+    "summary_en": "Astropad's Workbench allows users to remotely monitor and control AI agents running on Mac Minis from iPhone or iPad with low-latency streaming. This creates opportunities for AI service providers to manage multiple client deployments remotely, scaling AI agent operations without physical presence. Perfect for consultants running AI automations for multiple businesses.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 9,
+    "category": "tool",
+    "title_en": "Atlassian Confluence Adds Visual AI and Third-Party Agents",
+    "summary_en": "Confluence now includes visual AI asset creation and integrates agents from Lovable, Replit, and Gamma. This expansion creates monetization opportunities for developers building Confluence integrations and AI-powered workplace tools. Businesses can leverage these new capabilities to streamline content creation workflows and reduce design costs through automated visual asset generation.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 10,
+    "category": "news",
+    "title_en": "OpenAI Raises $122 Billion for Global AI Expansion",
+    "summary_en": "OpenAI secured $122 billion in funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT and Codex. This massive investment signals unprecedented market confidence in AI monetization. Entrepreneurs and investors should position themselves in the AI ecosystem as this funding will drive demand for supporting services, infrastructure, and specialized applications.",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 11,
+    "category": "tool",
+    "title_en": "KiloClaw Targets Shadow AI with Autonomous Agent Governance",
+    "summary_en": "KiloClaw launches autonomous agent governance tools to manage shadow AI deployments across enterprises. As businesses struggle with uncontrolled AI adoption, governance solutions represent a high-value market opportunity. Consultants and service providers can capitalize on enterprise demand for AI compliance, security auditing, and governance implementation services.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 12,
+    "category": "tool",
+    "title_en": "Microsoft Open-Source Toolkit Secures AI Agents at Runtime",
+    "summary_en": "Microsoft released an open-source toolkit focusing on runtime security for enterprise AI agents. This addresses critical governance gaps as autonomous models execute code faster than traditional policy controls. Security-focused AI consultants can leverage this toolkit to offer specialized services, helping enterprises safely deploy AI agents while maintaining compliance and security standards.",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 13,
+    "category": "money",
+    "title_en": "Billboard Business: $30k Monthly Income Part-Time Opportunity",
+    "summary_en": "Chris Brown built his billboard side hustle to $30,000 monthly working part-time, owning approximately 30 billboards around Bentonville, Arkansas. He retired at 42 through this scalable business model. Despite digital advertising growth, physical billboards remain profitable with predictable recurring revenue, making this an attractive investment opportunity for those seeking passive income streams.",
+    "source": "Side Hustle Nation",
+    "link": "https://www.sidehustlenation.com/how-to-start-a-billboard-business/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 14,
+    "category": "money",
+    "title_en": "Service Business Guide: Replace Your Full-Time Income",
+    "summary_en": "Abbey Ashley from TheVirtualSavvy.com explains how to start a service business to replace full-time income with minimal startup costs and no barrier to entry. Service businesses offer the fastest path to significant revenue generation, especially when combined with AI tools for automation and efficiency. This approach allows entrepreneurs to quickly monetize skills while building scalable operations.",
+    "source": "Side Hustle Nation",
+    "link": "https://www.sidehustlenation.com/start-a-service-business/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 15,
+    "category": "money",
+    "title_en": "28 Odd Job Apps Pay Up to $100/Hour",
+    "summary_en": "Multiple odd job apps offer flexible earning opportunities up to $100 per hour in spare time. These platforms provide immediate income generation without long-term commitments, perfect for funding AI tool subscriptions or business investments. The gig economy continues expanding, offering diverse ways to monetize time and skills while building toward larger entrepreneurial goals.",
+    "source": "Side Hustle Nation",
+    "link": "https://www.sidehustlenation.com/odd-job-apps/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 16,
+    "category": "money",
+    "title_en": "Get Paid for Your Data: Earn $500 Yearly",
+    "summary_en": "Big data generates an estimated $270 billion by 2026, and individuals can now monetize their personal data through various platforms earning up to $500 annually. This represents a growing passive income opportunity as data becomes increasingly valuable. Multiple services now compensate users for sharing browsing habits, location data, and other digital behaviors previously given away free.",
+    "source": "Side Hustle Nation",
+    "link": "https://www.sidehustlenation.com/get-paid-for-your-data/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 17,
+    "category": "tool",
+    "title_en": "Using AI to Transform Your Graphic Design Process",
+    "summary_en": "AI tools now integrate directly into Figma, Adobe, and most product workflows, removing friction from the creative process without replacing designers. This creates opportunities for design agencies to increase productivity and profitability by leveraging AI for repetitive tasks, allowing designers to focus on high-value creative work while delivering more projects per client.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/how-use-ai-graphic-design/",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 18,
+    "category": "prompt",
+    "title_en": "GEO Strategy: Beyond High-Volume Prompt Optimization",
+    "summary_en": "Generative Engine Optimization shouldn't focus solely on high-volume prompts, as most prompt data is estimated rather than verified. Smart SEO professionals are building content strategies around AI visibility that goes beyond traditional volume metrics. This represents a blue ocean opportunity for marketers who understand how to optimize for AI-driven discovery and recommendations.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/geo-best-practices-prompt-volume-shoudnt-drive-strategy/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 19,
+    "category": "news",
+    "title_en": "Voice Search Ads Reshape Google Search Reports",
+    "summary_en": "Voice search is fundamentally changing Google Ads Search Term Reports, moving beyond traditional keyword-based queries to conversational patterns. This shift creates new opportunities for marketers who adapt their campaigns for voice-driven searches. Agencies that master voice search optimization can command premium rates by helping clients capture this emerging, high-intent traffic channel.",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/voice-search-ads-changing-search-term-report/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 20,
+    "category": "news",
+    "title_en": "Enterprise AI Success: From Pilot to Production Results",
+    "summary_en": "MassMutual and Mass General Brigham successfully transitioned AI projects from pilot phase to production, avoiding the common trap of ungoverned pilot sprawl. Their case studies provide blueprints for enterprises seeking AI implementation ROI. This creates consulting opportunities for professionals who can guide businesses through structured AI deployment processes that deliver measurable results.",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  }
+]
