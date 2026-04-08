@@ -1,5 +1,29 @@
 [
   {
+    "rank": 17,
+    "category": "news",
+    "title_en": "Arcee AI: Tiny Startup Building High-Performance Open Models",
+    "summary_en": "26-person U.S. startup creates competitive massive open source LLM gaining popularity. David vs. Goliath story in the AI model development space.",
+    "slug": "arcee-ai-tiny-startup-open-source-llm-success",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 12,
+    "category": "news",
+    "title_en": "Databricks Co-founder Wins ACM Award, Says AGI Here",
+    "summary_en": "Matei Zaharia receives computing's top honor while claiming AGI already exists but is misunderstood. Working on AI for research applications at Databricks.",
+    "slug": "databricks-matei-zaharia-acm-award-agi-already-here",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
     "rank": 12,
     "category": "tool",
     "title_en": "Microsoft Open-Source Toolkit Secures AI Agents at Runtime",
