@@ -1,5 +1,53 @@
 [
   {
+    "rank": 18,
+    "category": "money",
+    "title_en": "19 Fitness Side Hustles Earning Up to $20K Monthly",
+    "summary_en": "Stay active while making money with fitness-related side businesses. Multiple opportunities to help others and generate substantial income.",
+    "slug": "fitness-side-hustles-20k-monthly",
+    "source": "Side Hustle Nation",
+    "link": "https://www.sidehustlenation.com/fitness-side-hustles/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-09"
+  },
+  {
+    "rank": 9,
+    "category": "tool",
+    "title_en": "Memento-Skills: AI Agents Rewrite Their Own Abilities",
+    "summary_en": "Revolutionary framework lets agents develop skills without retraining underlying models. Continuous learning capability for existing agent platforms.",
+    "slug": "memento-skills-ai-agents-self-improvement",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-08"
+  },
+  {
+    "rank": 7,
+    "category": "news",
+    "title_en": "Meta Launches Proprietary Muse Spark After Llama 4 Issues",
+    "summary_en": "Meta abandons open-source approach with new closed AI model. First release since forming Superintelligence Labs after Llama controversies.",
+    "slug": "meta-muse-spark-proprietary-ai-model",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-08"
+  },
+  {
+    "rank": 1,
+    "category": "tool",
+    "title_en": "Poke Makes AI Agents Simple via Text Messages",
+    "summary_en": "New platform brings AI automation to everyday users through simple text messaging. No technical setup required - just text to activate agents.",
+    "slug": "poke-ai-agents-text-messaging",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "affiliate": false,
+    "hot": true,
+    "date": "2026-04-08"
+  },
+  {
     "rank": 19,
     "category": "news",
     "title_en": "North Korea Compromises NPM, Iran Targets AI Centers",
