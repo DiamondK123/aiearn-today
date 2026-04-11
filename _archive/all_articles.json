@@ -1,5 +1,41 @@
 [
   {
+    "rank": 17,
+    "category": "money",
+    "title_en": "Customer Lifetime Value: Sustainable Growth Metric",
+    "summary_en": "CLV tells you whether marketing growth is sustainable beyond clicks and conversions. Master the metric that predicts long-term business success.",
+    "slug": "customer-lifetime-value-sustainable-growth-metric-clv",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/customer-lifetime-value/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 15,
+    "category": "money",
+    "title_en": "How High-Growth Companies Actually Measure Marketing ROI",
+    "summary_en": "Marketing attribution dashboards often mislead growth decisions. Learn what high-growth companies actually measure to drive real business results.",
+    "slug": "high-growth-companies-measure-marketing-roi-attribution",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/challenge-of-marketing-attribution/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 14,
+    "category": "money",
+    "title_en": "Keyword Research for AI-Era SEO Success",
+    "summary_en": "AI Overviews reduce position-one CTR by 58%, but smart keyword research still drives organic traffic. Adapt SEO strategies for the new landscape.",
+    "slug": "keyword-research-ai-era-seo-success-strategy",
+    "source": "Neil Patel",
+    "link": "https://neilpatel.com/blog/keyword-research/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
     "rank": 20,
     "category": "prompt",
     "title_en": "Writing with ChatGPT: Structure, Tone and Intent Mastery",
