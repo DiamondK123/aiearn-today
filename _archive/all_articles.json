@@ -1,5 +1,17 @@
 [
   {
+    "rank": 5,
+    "category": "tool",
+    "title_en": "Claude Mythos Finds Thousands of Security Vulnerabilities Autonomously",
+    "summary_en": "Anthropic's unreleased Claude Mythos discovered major vulnerabilities across operating systems and browsers. Company keeping model private due to cybersecurity implications.",
+    "slug": "claude-mythos-finds-security-vulnerabilities-autonomously",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
     "rank": 17,
     "category": "money",
     "title_en": "Customer Lifetime Value: Sustainable Growth Metric",
