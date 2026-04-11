@@ -1,6 +1,66 @@
 [
   {
     "rank": 20,
+    "category": "prompt",
+    "title_en": "Writing with ChatGPT: Structure, Tone and Intent Mastery",
+    "summary_en": "Learn advanced prompting techniques for content creation, revision, and refinement. Master clear structure, appropriate tone, and purposeful intent in AI-generated writing.",
+    "slug": "writing-chatgpt-structure-tone-intent-mastery-course",
+    "source": "OpenAI",
+    "link": "https://openai.com/academy/writing",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 19,
+    "category": "news",
+    "title_en": "EU AI Act Creates Governance Challenges for Agentic AI",
+    "summary_en": "AI agents that act without clear audit trails pose compliance problems under 2026 regulations. IT leaders need traceability solutions for automated decisions.",
+    "slug": "eu-ai-act-governance-challenges-agentic-ai-compliance",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 18,
+    "category": "news",
+    "title_en": "Apple Building Limited AI Agents with Built-in Restrictions",
+    "summary_en": "Next-generation AI assistants from Apple and Qualcomm designed with intentional limits. Can navigate apps and manage tasks but with safety constraints.",
+    "slug": "apple-building-limited-ai-agents-built-in-restrictions",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 17,
+    "category": "money",
+    "title_en": "IBM: AI Governance Protects Enterprise Profit Margins",
+    "summary_en": "Robust AI governance essential for protecting business margins as AI moves from product to platform. Investment in secure infrastructure drives long-term profitability.",
+    "slug": "ibm-ai-governance-protects-enterprise-profit-margins",
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 13,
+    "category": "news",
+    "title_en": "AI Agents Create New Enterprise Security Challenges",
+    "summary_en": "Autonomous AI agents execute code faster than traditional security controls can manage. New architectures needed for credential isolation and action control.",
+    "slug": "ai-agents-enterprise-security-challenges-zero-trust",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw",
+    "affiliate": false,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 20,
     "category": "news",
     "title_en": "AI Weekly: North Korea Hacks NPM, Iran Targets Datacenters",
     "summary_en": "Critical security briefing covers npm package compromises, data center GPS leaks, and AI models learning to lie. Four attack vectors in one week.",
