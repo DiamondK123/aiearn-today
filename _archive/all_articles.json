@@ -1,5 +1,53 @@
 [
   {
+    "rank": 18,
+    "category": "course",
+    "title_en": "ChatGPT Healthcare: HIPAA-Compliant AI for Clinicians",
+    "summary_en": "Explore how healthcare professionals use ChatGPT for diagnosis support, documentation, and patient care. Learn secure, compliant AI implementation for medical practice workflows.",
+    "slug": "chatgpt-healthcare-hipaa-compliant-ai-clinicians",
+    "source": "OpenAI",
+    "link": "https://openai.com/academy/healthcare",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 11,
+    "category": "course",
+    "title_en": "ChatGPT Operations Teams: Streamline Workflows and Processes",
+    "summary_en": "Learn how operations teams use ChatGPT to improve coordination, standardize processes, and drive faster execution. Practical strategies for workflow optimization and team productivity.",
+    "slug": "chatgpt-operations-teams-streamline-workflows-processes",
+    "source": "OpenAI",
+    "link": "https://openai.com/academy/operations",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 6,
+    "category": "course",
+    "title_en": "ChatGPT Marketing Teams: Campaigns to Execution Faster",
+    "summary_en": "Discover how marketing teams leverage ChatGPT for campaign planning, content generation, and performance analysis. Accelerate from creative ideas to campaign execution with AI assistance.",
+    "slug": "chatgpt-marketing-teams-campaigns-execution-faster",
+    "source": "OpenAI",
+    "link": "https://openai.com/academy/marketing",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
+    "rank": 4,
+    "category": "course",
+    "title_en": "ChatGPT Skills: Build Reusable Workflows for Consistent Results",
+    "summary_en": "Learn to create custom ChatGPT skills for automating recurring tasks and workflows. Master building reusable templates that ensure high-quality, consistent AI outputs for business processes.",
+    "slug": "chatgpt-skills-reusable-workflows-consistent-results",
+    "source": "OpenAI",
+    "link": "https://openai.com/academy/skills",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-11"
+  },
+  {
     "rank": 5,
     "category": "tool",
     "title_en": "Claude Mythos Finds Thousands of Security Vulnerabilities Autonomously",
