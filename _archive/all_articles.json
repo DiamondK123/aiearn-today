@@ -1,5 +1,29 @@
 [
   {
+    "rank": 19,
+    "category": "course",
+    "title_en": "Brainstorming with ChatGPT: Ideas to Actionable Plans",
+    "summary_en": "Transform rough concepts into structured plans using ChatGPT brainstorming techniques. Organize thinking and accelerate idea development.",
+    "slug": "brainstorming-chatgpt-ideas-actionable-plans-course",
+    "source": "OpenAI",
+    "link": "https://openai.com/academy/brainstorming",
+    "affiliate": true,
+    "hot": false,
+    "date": "2026-04-12"
+  },
+  {
+    "rank": 1,
+    "category": "tool",
+    "title_en": "ChatGPT Pro Now $100/Month: 5X Usage Limits for Developers",
+    "summary_en": "OpenAI launches new $100 monthly tier targeting developers with 5X usage limits for Codex. Bridges gap between $20 Plus and $200 Pro plans.",
+    "slug": "chatgpt-pro-100-month-5x-usage-limits-developers",
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
+    "affiliate": true,
+    "hot": true,
+    "date": "2026-04-12"
+  },
+  {
     "rank": 18,
     "category": "course",
     "title_en": "ChatGPT Healthcare: HIPAA-Compliant AI for Clinicians",
