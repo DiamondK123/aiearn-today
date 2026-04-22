@@ -2,10 +2,8 @@ name: Weekly AI News Auto-Update (New York Time)
 
 on:
   schedule:
-    # 夏令時間（EDT, UTC-4）
-    - cron: '0 16 * * 6'
-    # 冬令時間（EST, UTC-5）
-    - cron: '0 17 * * 6'
+    - cron: '0 16 * * 6' # EDT
+    - cron: '0 17 * * 6' # EST
   workflow_dispatch:
 
 permissions:
@@ -16,53 +14,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout code
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_PAT }}
 
-      - name: 🐍 Set up Python 3.11
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: pip install anthropic feedparser pytz
 
-      # ⭐ 核心：時間判斷（只允許紐約星期六12:00執行）
-      - name: 🕒 Check New York Time
+      - name: Check New York Time
         id: check_time
-        run: |
-          python <<EOF
-import datetime
-import pytz
-import sys
+        run: python -c "import datetime, pytz, sys; ny=pytz.timezone('America/New_York'); now=datetime.datetime.now(ny); print('Current NY time:', now); sys.exit(0 if (now.weekday()==5 and now.hour==12) else 1)"
 
-ny = pytz.timezone("America/New_York")
-now = datetime.datetime.now(ny)
-
-print("Current NY time:", now)
-
-# 條件：星期六 + 12點
-if not (now.weekday() == 5 and now.hour == 12):
-    print("❌ Not target time, skip execution")
-    sys.exit(1)
-else:
-    print("✅ Correct time, proceed")
-EOF
-
-      - name: 📰 Run weekly news update script
+      - name: Run weekly news update script
         if: success()
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_news.py
 
-      - name: 💾 Commit & push
+      - name: Commit and push
         if: success()
         run: |
           git config --local user.email "bot@aiearn.today"
           git config --local user.name "AIEarn Bot"
           git add -A
-          git diff --staged --quiet || git commit -m "📰 Weekly update (NY Sat 12PM): $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "Weekly update (NY Sat 12PM): $(date +'%Y-%m-%d')"
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
           git push
