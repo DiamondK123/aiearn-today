@@ -1,9 +1,11 @@
-name: Weekly AI News Auto-Update (New York Time)
+name: Weekly AI News Update
 
 on:
+  # Every Saturday at 12:00 Taipei time (UTC 04:00)
   schedule:
-    - cron: '0 16 * * 6' # EDT
-    - cron: '0 17 * * 6' # EST
+    - cron: '0 4 * * 6'
+
+  # Manual trigger for testing
   workflow_dispatch:
 
 permissions:
@@ -14,35 +16,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: 📥 Checkout code
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_PAT }}
 
-      - name: Set up Python 3.11
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install anthropic feedparser pytz
+      - name: 📦 Install dependencies
+        run: pip install anthropic feedparser
 
-      - name: Check New York Time
-        id: check_time
-        run: python -c "import datetime, pytz, sys; ny=pytz.timezone('America/New_York'); now=datetime.datetime.now(ny); print('Current NY time:', now); sys.exit(0 if (now.weekday()==5 and now.hour==12) else 1)"
-
-      - name: Run weekly news update script
-        if: success()
+      - name: 📰 Run weekly news update script
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_news.py
 
-      - name: Commit and push
-        if: success()
+      - name: 💾 Commit & push all generated pages to GitHub
         run: |
           git config --local user.email "bot@aiearn.today"
           git config --local user.name "AIEarn Bot"
           git add -A
-          git diff --staged --quiet || git commit -m "Weekly update (NY Sat 12PM): $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "📰 Weekly update: $(date +'%Y-%m-%d') Saturday 12:00 UTC+8"
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
           git push
+
+      # Hostinger Auto Deployment via Webhook — triggered automatically on git push above
