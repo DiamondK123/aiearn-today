@@ -25,7 +25,7 @@ DATE_EN      = TODAY.strftime("%b %d, %Y")
 DATE_ISO     = TODAY.strftime("%Y-%m-%d")
 WEEKDAY      = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"][TODAY.weekday()]
 PER_PAGE     = 10
-ARTICLES_PER_RUN = 5   # write 5 full articles per day (cost-efficient)
+ARTICLES_PER_RUN = 20  # write full article for ALL 20 topics each week
 ALL_ARCHIVE  = Path("_archive/all_articles.json")
 ARTICLES_DIR = Path("articles")
 
@@ -648,10 +648,10 @@ def main():
     all_topics = select_topics(items, count=20)
 
     # 3. Write full articles for top 5 (new ones only)
-    print("\n[FULL ARTICLES] Writing {} long-form articles...".format(ARTICLES_PER_RUN))
+    print("\n[FULL ARTICLES] Writing full articles for ALL {} topics...".format(len(all_topics)))
     ARTICLES_DIR.mkdir(exist_ok=True)
     full_article_count = 0
-    for a in all_topics[:ARTICLES_PER_RUN]:
+    for a in all_topics:
         slug = a.get("slug", re.sub(r"[^a-z0-9]+", "-", a["title_en"].lower())[:60])
         a["slug"] = slug
         if not Path("articles/" + slug + ".html").exists():
