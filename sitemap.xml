@@ -2,141 +2,267 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.aimoneynews.com/</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-2.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-3.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-4.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-5.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-6.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-7.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-8.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-9.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-10.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-11.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-12.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-13.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-14.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-15.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-16.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-17.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/news-18.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/news-19.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-cat-tool.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-cat-money.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-cat-course.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-cat-prompt.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/news-cat-news.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/200000-mcp-servers-command-execution-security-flaw.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/apple-surprised-ai-driven-mac-demand-supply-constraints.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/sap-enterprise-ai-governance-profit-margins.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/comprehensive-copywriting-guide-2026-ai-impact.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/seo-101-basics-2026-complete-guide.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/smart-cmos-marketing-dollar-allocation-roi-measurement.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/openai-fedramp-moderate-federal-agencies-approval.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/pentagon-ai-deals-nvidia-microsoft-aws-classified-networks.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/alibaba-metis-agent-cuts-redundant-tool-calls-98-to-2.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/ubersuggest-chrome-extension-2-keyword-research-tool.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/chatgpt-images-2-hit-india-creative-content.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/runpod-flash-open-source-python-eliminates-docker.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/github-copilot-per-token-pricing-model-june-2026.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/salesforce-agentforce-operations-enterprise-ai-workflows.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/openai-models-managed-agents-aws-launch.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/big-tech-ai-infrastructure-spending-earnings-2026.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/anthropic-900b-valuation-round-two-weeks.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/gpt-5-5-openai-most-capable-agentic-ai-model.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aimoneynews.com/articles/xai-grok-4-3-low-price-voice-cloning-launch.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/articles/meta-abandons-open-source-ai-proprietary.html</loc>
@@ -422,25 +548,25 @@
   </url>
   <url>
     <loc>https://www.aimoneynews.com/about.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/contact.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/privacy-policy.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.aimoneynews.com/affiliate-disclosure.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
